@@ -21,7 +21,7 @@ __Enrique Hernández-Lemus - Lead Researcher__
 * __Mireya Gachúz-Martínez__ - Undergrad (Biology)
 * __Ana Victoria Martínez__ - Undergrad (Physics)
 * __Aldo J. Huerta Verde__  - Undergrad (Physics)
-* __Raúl Alejandro Mejía Pedroza- Internship__ (Medicine)
+* __Raúl Alejandro Mejía Pedroza__ -Undergrad (Medicine)
 * __Luis Enrique Cabrera Quio__ * - Summer internship (Genomic Sciences)
 
 ### News & Projects
