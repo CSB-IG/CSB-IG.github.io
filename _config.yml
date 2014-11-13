@@ -1,4 +1,6 @@
 markdown: kramdown
+kramdown:
+  input: GFM
 permalink: /blog/:year/:title/
 relative_permalinks: true
 exclude:
