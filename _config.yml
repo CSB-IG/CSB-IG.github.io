@@ -1,4 +1,6 @@
 markdown: kramdown
+kramdown:
+  input: GFM
 permalink: /blog/:year/:title/
 relative_permalinks: true
 exclude:
@@ -39,7 +41,7 @@ noita:
       - name: Contact
         url: /contact/
       - name: Repository
-        url: https://github.com/penibelst/jekyll-noita
+        url: https://github.com/CSB-IG
         class: small button
 
 compress_html:

@@ -14,14 +14,14 @@ __Enrique Hernández-Lemus - Lead Researcher__
 * __Hugo Tovar, MSc.__ - Ph.D. student (Biological Sciences)
 * __Guillermo de Anda-Jaúregui, BSc__ - Ph.D. student (Biomedical Sciences)
 * __Sergio A. Alcalá-Corona, MSc.__ - Ph.D. student (Biomedical Sciences)
-* __Miguel Ángel García-Campos__ - MSc. student (Biological Sciences)
+* __Miguel Angel García-Campos__ - MSc. student (Biological Sciences)
 * __Roselyn Lemus, MSc.__ - MSc. student (Molecular Oncology)
 * __Jorge Gutiérrez-Flores *__   - MSc. student (Chemistry)
 * __Héctor Daniel González-Terán__- Undergrad (Computer Science)
 * __Mireya Gachúz-Martínez__ - Undergrad (Biology)
 * __Ana Victoria Martínez__ - Undergrad (Physics)
 * __Aldo J. Huerta Verde__  - Undergrad (Physics)
-* __Raúl Mejía - Internship__ (Medicine)
+* __Raúl Alejandro Mejía Pedroza__ -Undergrad (Medicine)
 * __Luis Enrique Cabrera Quio__ * - Summer internship (Genomic Sciences)
 
 ### News & Projects
