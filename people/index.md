@@ -2,7 +2,7 @@
 layout: page
 ---
 
-### Hernández-Lemus Group
+### Computational Systems Biology / Integrative Genomics group
 
 __Enrique Hernández-Lemus - Lead Researcher__
 
