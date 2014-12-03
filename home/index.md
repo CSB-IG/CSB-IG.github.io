@@ -2,7 +2,9 @@
 layout: page
 ---
 
-### Hernández-Lemus Group
+### CSB-IG Group
+
+![tag cloud](/images/CludSysBio.jpg)
 
 Current research broadly belongs to the Computational Systems Biology,  Integrative Genomics and Biological Physics Arenas. The focus of research is the application of the theoretical foundations and mathematical insight of non-equilibrium statistical physics, probabilistic modeling and complex system’s theory in the analysis of biological problems, specially those of biomedical interest.
 
