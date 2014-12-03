@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Hernández-Lemus Group
+## CSB-IG Group
 
 Any inquiries related to this research group should be addressed to
 
