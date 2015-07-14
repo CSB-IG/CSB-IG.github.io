@@ -5,7 +5,7 @@ permalink: /angel_campos/
 ---
 
 ![][image]
-## **[Angel García-Campos][3]**
+#### **[ResearchGate Profile][3]**
 <mailto:angel.campos@ciencias.unam.mx>
 
 #### Academic Background
@@ -13,7 +13,7 @@ permalink: /angel_campos/
 * BSc in Biology - Universidad Nacional Autónoma de México
 * MSc in Biolgic Sciences - Universidad Nacional Autónoma de México (at present)
 
-#### **Work in progress**
+#### Work in progress
 * MSc Main Project: Analysis of the relationships between the apoptotic and autophagic pathways in breast cancer
 * Review on Pathway Analysis Tools
 
@@ -29,8 +29,6 @@ permalink: /angel_campos/
 #### Publications
 * Conference paper: [Physiological analysis of an acatalasemic Saccharomyces cerevisiae complemented with the catalases from the euryhaline yeast Debaryomyces hansenii][1]
 * BSc Thesis: [Las catalasas de D. hansenii: Análisis de la complementación heteróloga en una mutante acatalasémica de S. cerevisiae][2] 
-
-
 
 
 [image]:https://i1.rgstatic.net/i/profile/6f5c1557779f73872d_l_bf970.jpg
