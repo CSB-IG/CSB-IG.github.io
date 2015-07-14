@@ -5,7 +5,7 @@ permalink: /angel_campos/
 ---
 
 ![][image]
-#### **[ResearchGate Profile][3]**
+**[ResearchGate Profile][3]**
 <mailto:angel.campos@ciencias.unam.mx>
 
 #### Academic Background
