@@ -5,7 +5,7 @@ permalink: /angel_campos/
 ---
 
 ![][image]
-**[ResearchGate Profile][3]**
+**[ResearchGate][3] | [GitHub][4] | [Twitter][5]**
 <mailto:angel.campos@ciencias.unam.mx>
 
 #### Academic Background
@@ -35,3 +35,5 @@ permalink: /angel_campos/
 [1]: https://www.researchgate.net/publication/278683392_Physiological_analysis_of_an_acatalasemic_Saccharomyces_cerevisiae_complemented_with_the_catalases_from_the_euryhaline_yeast_Debaryomyces_hanse
 [2]: https://www.researchgate.net/publication/278683656_Las_catalasas_de_D._hansenii_Anlisis_de_la_complementacin_heterloga_en_una_mutante_acatalasmica_de_S._cerevisiae
 [3]: https://www.researchgate.net/profile/Angel_Garcia-Campos
+[4]: https://github.com/AngelCampos
+[5]: https://twitter.com/FangOokami
