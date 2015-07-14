@@ -10,25 +10,25 @@ permalink: /angel_campos/
 
 #### Academic Background
 
-- BSc in Biology - Universidad Nacional Autónoma de México
-- MSc in Biolgic Sciences - Universidad Nacional Autónoma de México (at present)
+* BSc in Biology - Universidad Nacional Autónoma de México
+* MSc in Biolgic Sciences - Universidad Nacional Autónoma de México (at present)
 
 #### **Work in progress**
-- MSc Main Project: Analysis of the relationships between the apoptotic and autophagic pathways in breast cancer
-- Review on Pathway Analysis Tools
+* MSc Main Project: Analysis of the relationships between the apoptotic and autophagic pathways in breast cancer
+* Review on Pathway Analysis Tools
 
 #### Research Interests
-- Data Science
-- Systems Biology
-- Complexity Sciences
+* Data Science
+* Systems Biology
+* Complexity Sciences
 
 #### Academic acomplishments
-- Accepted in the Biological Sciences Posgrade Program (May 2014)
-- CONACYT Scholarship holder (Aug 2014 - present)
+* Accepted in the Biological Sciences Posgrade Program (May 2014)
+* CONACYT Scholarship holder (Aug 2014 - present)
 
 #### Publications
-- Conference paper: [Physiological analysis of an acatalasemic Saccharomyces cerevisiae complemented with the catalases from the euryhaline yeast Debaryomyces hansenii][1]
-- BSc Thesis: [Las catalasas de D. hansenii: Análisis de la complementación heteróloga en una mutante acatalasémica de S. cerevisiae][2] 
+* Conference paper: [Physiological analysis of an acatalasemic Saccharomyces cerevisiae complemented with the catalases from the euryhaline yeast Debaryomyces hansenii][1]
+* BSc Thesis: [Las catalasas de D. hansenii: Análisis de la complementación heteróloga en una mutante acatalasémica de S. cerevisiae][2] 
 
 
 
