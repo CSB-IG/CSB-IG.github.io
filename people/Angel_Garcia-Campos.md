@@ -1,7 +1,7 @@
 ---
 title: Angel García-Campos
 layout: page
-permalink: /angel_g.campos/
+permalink: /angel_campos/
 ---
 
 ![][image]
