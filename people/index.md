@@ -14,7 +14,7 @@ __Enrique Hernández-Lemus - Lead Researcher__
 * __Hugo Tovar, MSc.__ - Ph.D. student (Biological Sciences)
 * __Guillermo de Anda-Jaúregui, BSc__ - Ph.D. student (Biomedical Sciences)
 * __Sergio A. Alcalá-Corona, MSc.__ - Ph.D. student (Biomedical Sciences)
-* __Miguel Angel García-Campos__ - MSc. student (Biological Sciences)
+* __[Miguel Angel García-Campos][A]__ - MSc. student (Biological Sciences)
 * __Roselyn Lemus, MSc.__ - MSc. student (Molecular Oncology)
 * __Jorge Gutiérrez-Flores *__   - MSc. student (Chemistry)
 * __Héctor Daniel González-Terán__- Undergrad (Computer Science)
@@ -95,3 +95,5 @@ Some recent news from the group (as of July 15th, 2014):
 [p]: http://genomicacomputacional.inmegen.gob.mx/ehernandez/www.iim.unam.mx
 [q]: http://biomedbiotec.encb.ipn.mx/doctorado/Eva_Ramon.php
 [r]: http://www.feinsteininstitute.org/
+
+[A]: http://csbig.inmegen.gob.mx/people/angel_campos/
