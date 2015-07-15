@@ -23,7 +23,7 @@ permalink: /angel_campos/
 * Complexity Sciences
 
 #### Academic acomplishments
-* Accepted in the Biological Sciences Posgrade Program (May 2014)
+* Accepted in the Biological Sciences Graduate Program, UNAM (May 2014)
 * CONACYT Scholarship holder (Aug 2014 - present)
 
 #### Publications
