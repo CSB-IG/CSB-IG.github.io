@@ -1,9 +1,9 @@
-## Rodrigo García Herrera
-
 ---
 title: Rodrigo García-Herrera
 layout: page
 ---
+
+# Rodrigo García Herrera
 
 [ResearchGate]
 [GitHub](https://github.com/rgarcia-herrera)
