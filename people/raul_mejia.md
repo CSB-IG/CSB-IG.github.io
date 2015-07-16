@@ -4,7 +4,7 @@ layout: page
 permalink: /raul_mejia/
 ---
 
-**| [GitHub][2]**
+**[GitHub][2]**
 <mailto:r8a8m8p8@gmail.com>
 
 #### Academic Background
