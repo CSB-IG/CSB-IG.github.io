@@ -21,7 +21,7 @@ __Enrique Hernández-Lemus - Lead Researcher__
 * __Mireya Gachúz-Martínez__ - Undergrad (Biology)
 * __Ana Victoria Martínez__ - Undergrad (Physics)
 * __Aldo J. Huerta Verde__  - Undergrad (Physics)
-* __Raúl Alejandro Mejía Pedroza__ -Undergrad (Medicine)
+* __[Raúl Alejandro Mejía Pedroza][C]__ -Undergrad (Medicine)
 * __Luis Enrique Cabrera Quio__ * - Summer internship (Genomic Sciences)
 
 ### News & Projects
@@ -98,3 +98,4 @@ Some recent news from the group (as of July 15th, 2014):
 
 [A]: http://csbig.inmegen.gob.mx/people/angel_campos/
 [B]: http://csbig.inmegen.gob.mx/people/hugo_tovar/
+[C]: http://csbig.inmegen.gob.mx/people/raul_mejia/
