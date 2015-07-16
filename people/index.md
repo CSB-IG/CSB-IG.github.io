@@ -11,7 +11,7 @@ __Enrique Hernández-Lemus - Lead Researcher__
 * __Tadeo E. Velázquez-Caldelas__ - Research Assistant
 * __Adriana Nicasio-Collazo, MSc.__ * - Ph.D. student (Physics)
 * __Alexandra Delgado-González MSc.__ * - Ph.D.  student (Physics)
-* __Hugo Tovar, MSc.__ - Ph.D. student (Biological Sciences)
+* __[Hugo Tovar, MSc.][B]__ - Ph.D. student (Biological Sciences)
 * __Guillermo de Anda-Jaúregui, BSc__ - Ph.D. student (Biomedical Sciences)
 * __Sergio A. Alcalá-Corona, MSc.__ - Ph.D. student (Biomedical Sciences)
 * __[Miguel Angel García-Campos][A]__ - MSc. student (Biological Sciences)
@@ -97,3 +97,4 @@ Some recent news from the group (as of July 15th, 2014):
 [r]: http://www.feinsteininstitute.org/
 
 [A]: http://csbig.inmegen.gob.mx/people/angel_campos/
+[B]: http://csbig.inmegen.gob.mx/people/hugo_tovar/
