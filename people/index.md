@@ -7,14 +7,14 @@ layout: page
 __Enrique Hernández-Lemus - Lead Researcher__
 
 * __Jesús Espinal-Enriquez, Ph.D.__  - Postdoctoral Researcher
-* __Karol Baca-López, MSc.__  - Graduate Research Assistant
+* __Karol Baca-López, M.Sc.__  - Graduate Research Assistant
 * __Tadeo E. Velázquez-Caldelas__ - Research Assistant
-* __Adriana Nicasio-Collazo, MSc.__ * - Ph.D. student (Physics)
-* __Alexandra Delgado-González MSc.__ * - Ph.D.  student (Physics)
+* __Adriana Nicasio-Collazo, M.Sc.__ * - Ph.D. student (Physics)
+* __Alexandra Delgado-González M.Sc.__ * - Ph.D.  student (Physics)
 * __[Hugo Tovar, MSc.][B]__ - Ph.D. student (Biological Sciences)
-* __Guillermo de Anda-Jaúregui, BSc__ - Ph.D. student (Biomedical Sciences)
-* __Sergio A. Alcalá-Corona, MSc.__ - Ph.D. student (Biomedical Sciences)
-* __[Miguel Angel García-Campos][A]__ - MSc. student (Biological Sciences)
+* [__Guillermo de Anda-Jaúregui, B.Sc.__][D] - Ph.D. student (Biomedical Sciences)
+* __Sergio A. Alcalá-Corona, M.Sc.__ - Ph.D. student (Biomedical Sciences)
+* __[Miguel Angel García-Campos, B.Sc.][A]__ - M.Sc. student (Biological Sciences)
 * __Roselyn Lemus, MSc.__ - MSc. student (Molecular Oncology)
 * __Jorge Gutiérrez-Flores *__   - MSc. student (Chemistry)
 * __Héctor Daniel González-Terán__- Undergrad (Computer Science)
@@ -28,8 +28,8 @@ __Enrique Hernández-Lemus - Lead Researcher__
 
 Some recent news from the group (as of July 15th, 2014):
 
-* The project on _Complex networks in scientific collaboration leaded_ by Dr. Jesús Siqueiros (and involving several other members of this team) has been elected for a CONACYT basic research  grant. 
-* Rodrigo Herrera and collabs just published a paper in __Science__ on the _genomical substructure of Native Americans_ 
+* The project on _Complex networks in scientific collaboration leaded_ by Dr. Jesús Siqueiros (and involving several other members of this team) has been elected for a CONACYT basic research  grant.
+* Rodrigo Herrera and collabs just published a paper in __Science__ on the _genomical substructure of Native Americans_
 [http://www.ncbi.nlm.nih.gov/pubmed/24926019][1]
 * Dr. Jesús Espinal will receive a special on-time-graduation grant from UNAM
 * Dr. Jesús Espinal just had just accepted his paper on _Sperm motillity networks_ in PLoS ONE
@@ -99,3 +99,4 @@ Some recent news from the group (as of July 15th, 2014):
 [A]: http://csbig.inmegen.gob.mx/people/angel_campos/
 [B]: http://csbig.inmegen.gob.mx/people/hugo_tovar/
 [C]: http://csbig.inmegen.gob.mx/people/raul_mejia/
+[D]: http://csbig.inmegen.gob.mx/people//guillermo_deAndaJ/
