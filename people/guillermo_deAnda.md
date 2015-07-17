@@ -4,7 +4,7 @@ layout: page
 permalink: /guillermo_deAndaJ/
 ---
 
-![image](/images/memo.jpg)
+![image](/images/Profiles/memo.jpg)
 **[GitHub][2]**
 <mailto:guillermodeandajauregui@gmail.com>
 
