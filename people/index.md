@@ -48,24 +48,24 @@ Some recent news from the group (as of July 15th, 2014):
 
 #### External Collaborators:
 
-* [Jesús M. Siqueiros-García (IIMAS-UNAM)][a]
-* [Pablo Rudomín (CINVESTAV)][b]
-* [Elena Álvarez-Buylla (IE-UNAM)][c]
-* [Carmen Mejía (IIB-UNAM)][d]
-* [Ramón Castañeda-Priego (U Guanajuato)][e]
-* [Lena Ruiz-Azuara (FQ-UNAM)][f]
-* [Laura Uribe (Affymetrix)][g]
-* [Rodrigo Galindo-Murillo (U Utah)][h]
-* [Edgardo Ugalde (IF-UASLP)][i]
-* [Beatríz Luna-Olivera (UNPA)][j]
-* [Alán Aspuru-Guzik (U Harvard)][k]
-* [Erika E. Rodríguez (UAEH/CINVESTAV)][l]
-* [David P. Sanders (FC-UNAM)][m]
-* [Francisco F. De Miguel (IFC-UNAM)][n]
-* [Miguel Rubí (U Barcelona)][o]
-* [Estrella Ramos (IM-UNAM)][p]
-* [Eva Ramón Gallegos (ENCB-IPN)][q]
-* [Nataly Manjarrez Orduño (The Feinstein Institute for Medical Research)][r]
+* [Jesús M. Siqueiros-García (IIMAS-UNAM)][8]
+* [Pablo Rudomín (CINVESTAV)][9]
+* [Elena Álvarez-Buylla (IE-UNAM)][10]
+* [Carmen Mejía (IIB-UNAM)][11]
+* [Ramón Castañeda-Priego (U Guanajuato)][12]
+* [Lena Ruiz-Azuara (FQ-UNAM)][13]
+* [Laura Uribe (Affymetrix)][14]
+* [Rodrigo Galindo-Murillo (U Utah)][15]
+* [Edgardo Ugalde (IF-UASLP)][16]
+* [Beatríz Luna-Olivera (UNPA)][17]
+* [Alán Aspuru-Guzik (U Harvard)][18]
+* [Erika E. Rodríguez (UAEH/CINVESTAV)][19]
+* [David P. Sanders (FC-UNAM)][20]
+* [Francisco F. De Miguel (IFC-UNAM)][21]
+* [Miguel Rubí (U Barcelona)][22]
+* [Estrella Ramos (IM-UNAM)][23]
+* [Eva Ramón Gallegos (ENCB-IPN)][24]
+* [Nataly Manjarrez Orduño (The Feinstein Institute for Medical Research)][25]
 
 
 
@@ -77,24 +77,24 @@ Some recent news from the group (as of July 15th, 2014):
 [6]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=25
 [7]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=223
 
-[a]: http://www.iimas.unam.mx/biblioteca/index.php/colaboradors/detalle/1/s
-[b]: http://www.fisio.cinvestav.mx/academicos/rudomin/
-[c]: http://www.ecologia.unam.mx/ie/academicos/alvarez/alvarez_contacto.htm
-[d]: http://www.biomedicas.unam.mx/_administracion/_departamentos/medicina_genomica_toxicologia_ambiental/carmen_mejia.html
-[e]: http://www.ifug.ugto.mx/~ramoncp/
-[f]: http://www.quimica.unam.mx/ficha_investigador.php?ID=157&tipo=2
-[g]: http://www.linkedin.com/pub/laura-uribe/9/608/430
-[h]: http://faculty.utah.edu/u0818159-RODRIGO_GALINDO/research/index.hml
-[i]: http://www.ifisica.uaslp.mx/~ugalde/
-[j]: http://www.unpa.edu.mx/profesores/loma_bonita/beatriz_carely_luna_olivera.html
-[k]: http://aspuru.chem.harvard.edu/
-[l]: http://www.uaeh.edu.mx/campus/icbi/investigacion/matematicas/curriculums/erika.html
-[m]: http://sistemas.fciencias.unam.mx/~dsanders/
-[n]: http://www.ifc.unam.mx/investigadores/francisco-f-de-miguel
-[o]: http://www.ffn.ub.es/webmrubi/
-[p]: http://genomicacomputacional.inmegen.gob.mx/ehernandez/www.iim.unam.mx
-[q]: http://biomedbiotec.encb.ipn.mx/doctorado/Eva_Ramon.php
-[r]: http://www.feinsteininstitute.org/
+[8]: http://www.iimas.unam.mx/biblioteca/index.php/colaboradors/detalle/1/s
+[9]: http://www.fisio.cinvestav.mx/academicos/rudomin/
+[10]: http://www.ecologia.unam.mx/ie/academicos/alvarez/alvarez_contacto.htm
+[11]: http://www.biomedicas.unam.mx/_administracion/_departamentos/medicina_genomica_toxicologia_ambiental/carmen_mejia.html
+[12]: http://www.ifug.ugto.mx/~ramoncp/
+[13]: http://www.quimica.unam.mx/ficha_investigador.php?ID=157&tipo=2
+[14]: http://www.linkedin.com/pub/laura-uribe/9/608/430
+[15]: http://faculty.utah.edu/u0818159-RODRIGO_GALINDO/research/index.hml
+[16]: http://www.ifisica.uaslp.mx/~ugalde/
+[17]: http://www.unpa.edu.mx/profesores/loma_bonita/beatriz_carely_luna_olivera.html
+[18]: http://aspuru.chem.harvard.edu/
+[19]: http://www.uaeh.edu.mx/campus/icbi/investigacion/matematicas/curriculums/erika.html
+[20]: http://sistemas.fciencias.unam.mx/~dsanders/
+[21]: http://www.ifc.unam.mx/investigadores/francisco-f-de-miguel
+[22]: http://www.ffn.ub.es/webmrubi/
+[23]: http://genomicacomputacional.inmegen.gob.mx/ehernandez/www.iim.unam.mx
+[24]: http://biomedbiotec.encb.ipn.mx/doctorado/Eva_Ramon.php
+[25]: http://www.feinsteininstitute.org/
 
 [A]: http://csbig.inmegen.gob.mx/people/angel_campos/
 [B]: http://csbig.inmegen.gob.mx/people/hugo_tovar/
