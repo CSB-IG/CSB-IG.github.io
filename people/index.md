@@ -9,19 +9,23 @@ __Enrique Hernández-Lemus - Lead Researcher__
 * __Jesús Espinal-Enriquez, Ph.D.__  - Postdoctoral Researcher
 * __Karol Baca-López, M.Sc.__  - Graduate Research Assistant
 * __Tadeo E. Velázquez-Caldelas__ - Research Assistant
-* __Adriana Nicasio-Collazo, M.Sc.__ * - Ph.D. student (Physics)
-* __Alexandra Delgado-González M.Sc.__ * - Ph.D.  student (Physics)
 * __[Hugo Tovar, MSc.][B]__ - Ph.D. student (Biological Sciences)
 * [__Guillermo de Anda-Jaúregui, B.Sc.__][D] - Ph.D. student (Biomedical Sciences)
 * __Sergio A. Alcalá-Corona, M.Sc.__ - Ph.D. student (Biomedical Sciences)
+* __[Raúl Alejandro Mejía Pedroza][C]__ -Ph.D. student (Biomedical Sciences)
+* __Adriana Nicasio-Collazo, M.Sc.__ * - Ph.D. student (Physics)
+* __Alexandra Delgado-González M.Sc.__ * - Ph.D.  student (Physics)
 * __[Miguel Angel García-Campos, B.Sc.][A]__ - M.Sc. student (Biological Sciences)
+*  __[Diana Drago-García, B.Sc.]__ - M.Sc. student (Biochemical Sciences)
 * __Roselyn Lemus, MSc.__ - MSc. student (Molecular Oncology)
 * __Jorge Gutiérrez-Flores *__   - MSc. student (Chemistry)
+* __Alejandro Delijorge *__   - MSc. student (Electric and Computing Engineering)
+* __Estefania Barreto-Reyna__- Graduate student (Computer Science)
 * __Héctor Daniel González-Terán__- Undergrad (Computer Science)
+* __Luis Felipe del Castillo__- Undergrad (Computer Science)
 * __Mireya Gachúz-Martínez__ - Undergrad (Biology)
 * __Ana Victoria Martínez__ - Undergrad (Physics)
 * __Aldo J. Huerta Verde__  - Undergrad (Physics)
-* __[Raúl Alejandro Mejía Pedroza][C]__ -Undergrad (Medicine)
 * __Luis Enrique Cabrera Quio__ * - Summer internship (Genomic Sciences)
 
 ### News & Projects
@@ -39,9 +43,9 @@ Some recent news from the group (as of July 15th, 2014):
 
 #### In-House Collaborators:
 
-* [Claudia Rangel-Escareño (INMEGEN)][2]
-* [Alfredo Hidalgo-Miranda (INMEGEN)][3]
 * [Rodrigo García-Herrera (INMEGEN)][4]
+* [Alfredo Hidalgo-Miranda (INMEGEN)][3]
+* [Claudia Rangel-Escareño (INMEGEN)][2]
 * [Nora Gutiérrez-Nájera (INMEGEN)][5]
 * [Juan Pablo Reyes-Grajeda (INMEGEN)][6]
 * [Julio Isael Pérez-Carreón (INMEGEN)][7]
@@ -66,6 +70,11 @@ Some recent news from the group (as of July 15th, 2014):
 * [Estrella Ramos (IM-UNAM)][23]
 * [Eva Ramón Gallegos (ENCB-IPN)][24]
 * [Nataly Manjarrez Orduño (The Feinstein Institute for Medical Research)][25]
+* [Hernán Larralde (ICF-UNAM)][26]
+* [Gustavo Martínez-Mekler (ICF-UNAM)][27]
+* [Alberto Darszon (IBT-UNAM)][28]
+* [Adán Guerrero (LNMA-UNAM)][29]
+* [Jorge Carneiro (Instituto Gulbenkian de Ciencia, Portugal)][30]
 
 
 
