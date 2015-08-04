@@ -16,16 +16,16 @@ __Enrique Hernández-Lemus - Lead Researcher__
 * __Adriana Nicasio-Collazo, M.Sc.__ * - Ph.D. student (Physics)
 * __Alexandra Delgado-González M.Sc.__ * - Ph.D.  student (Physics)
 * __[Miguel Angel García-Campos, B.Sc.][A]__ - M.Sc. student (Biological Sciences)
-*  __[Diana Drago-García, B.Sc.]__ - M.Sc. student (Biochemical Sciences)
+*  __Diana Drago-García, B.Sc.__ - M.Sc. student (Biochemical Sciences)
 * __Roselyn Lemus, MSc.__ - MSc. student (Molecular Oncology)
 * __Jorge Gutiérrez-Flores *__   - MSc. student (Chemistry)
 * __Alejandro Delijorge *__   - MSc. student (Electric and Computing Engineering)
 * __Estefania Barreto-Reyna__- Graduate student (Computer Science)
-* __Héctor Daniel González-Terán__- Undergrad (Computer Science)
-* __Luis Felipe del Castillo__- Undergrad (Computer Science)
-* __Mireya Gachúz-Martínez__ - Undergrad (Biology)
-* __Ana Victoria Martínez__ - Undergrad (Physics)
-* __Aldo J. Huerta Verde__  - Undergrad (Physics)
+* __Héctor Daniel González-Terán__- Undergraduate student (Computer Science)
+* __Luis Felipe del Castillo Vazquez__- Undergraduate student (Computer Science)
+* __Mireya Gachúz-Martínez__ - Undergraduate student (Biology)
+* __Ana Victoria Martínez__ - Undergraduate student (Physics)
+* __Aldo J. Huerta Verde__  - Undergraduate student (Physics)
 * __Luis Enrique Cabrera Quio__ * - Summer internship (Genomic Sciences)
 
 ### News & Projects
@@ -104,6 +104,12 @@ Some recent news from the group (as of July 15th, 2014):
 [23]: http://genomicacomputacional.inmegen.gob.mx/ehernandez/www.iim.unam.mx
 [24]: http://biomedbiotec.encb.ipn.mx/doctorado/Eva_Ramon.php
 [25]: http://www.feinsteininstitute.org/
+[26]: http://www.fis.unam.mx/perfil_ver.php?miembro=29
+[27]: http://www.fis.unam.mx/perfil_ver.php?miembro=32
+[28]: http://www.ibt.unam.mx/server/PRG.base?tipo:doc,dir:PRG.curriculum,par:darszon
+[29]: http://www.ibt.unam.mx/server/PRG.base?tipo:doc,dir:PRG.curriculum,par:adanog
+[30]: http://qobweb.igc.gulbenkian.pt/pages/jorge/
+
 
 [A]: http://csbig.inmegen.gob.mx/people/angel_campos/
 [B]: http://csbig.inmegen.gob.mx/people/hugo_tovar/
