@@ -8,17 +8,17 @@ Any inquiries related to this research group should be addressed to
 
 ### Enrique Hernández-Lemus, Ph.D.
 
-    
+
 Computational Genomics Consortium
 <br/>National Institute of Genomic Medicine - México
 <br/>Periférico Sur 4809, Col. Arenal Tepepan,
 <br/>México, D.F. 14610, México
-    
+
 Ph: + 52 55 53501970
 <br/>Fax: +52 55 53501990
 
 [ehernandez@inmegen.gob.mx][1]
-<br/>[http://genomicacomputacional.inmegen.gob.mx/ehernandez][2]
+<br/>[Personal web-site][2]
 
 ### Networking
 <br/>[https://github.com/CSB-IG][3]
@@ -30,7 +30,7 @@ Ph: + 52 55 53501970
 
 
 [1]: ehernandez@inmegen.gob.mx
-[2]: http://genomicacomputacional.inmegen.gob.mx/ehernandez
+[2]: http://csbig.inmegen.gob.mx/about/
 [3]: https://github.com/CSB-IG
 [4]: http://inmegen.academia.edu/EnriqueHernandezLemus
 [5]: http://www.linkedin.com/in/enriquehernandez
