@@ -10,13 +10,13 @@ __Enrique Hernández-Lemus - Lead Researcher__
 * __Karol Baca-López, M.Sc.__  - Graduate Research Assistant
 * __Tadeo E. Velázquez-Caldelas__ - Research Assistant
 * __[Hugo Tovar, MSc.][B]__ - Ph.D. student (Biological Sciences)
-* [__Guillermo de Anda-Jaúregui, B.Sc.__][D] - Ph.D. student (Biomedical Sciences)
+* __[Guillermo de Anda-Jaúregui, B.Sc.][D]__ - Ph.D. student (Biomedical Sciences)
 * __Sergio A. Alcalá-Corona, M.Sc.__ - Ph.D. student (Biomedical Sciences)
 * __[Raúl Alejandro Mejía Pedroza][C]__ -Ph.D. student (Biomedical Sciences)
 * __Adriana Nicasio-Collazo, M.Sc.__ * - Ph.D. student (Physics)
 * __Alexandra Delgado-González M.Sc.__ * - Ph.D.  student (Physics)
 * __[Miguel Angel García-Campos, B.Sc.][A]__ - M.Sc. student (Biological Sciences)
-*  __Diana Drago-García, B.Sc.__ - M.Sc. student (Biochemical Sciences)
+*  __[Diana Drago-García, B.Sc.][E]__ - M.Sc. student (Biochemical Sciences)
 * __Roselyn Lemus, MSc.__ - MSc. student (Molecular Oncology)
 * __Jorge Gutiérrez-Flores *__   - MSc. student (Chemistry)
 * __Alejandro Delijorge *__   - MSc. student (Electric and Computing Engineering)
@@ -114,4 +114,5 @@ Some recent news from the group (as of July 15th, 2014):
 [A]: http://csbig.inmegen.gob.mx/people/angel_campos/
 [B]: http://csbig.inmegen.gob.mx/people/hugo_tovar/
 [C]: http://csbig.inmegen.gob.mx/people/raul_mejia/
-[D]: http://csbig.inmegen.gob.mx/people//guillermo_deAndaJ/
+[D]: http://csbig.inmegen.gob.mx/people/guillermo_deAndaJ/
+[E]: http://csbig.inmegen.gob.mx/people/diana_drago/
