@@ -7,7 +7,7 @@ layout: page
 __Enrique Hernández-Lemus - Lead Researcher__
 
 * __Jesús Espinal-Enriquez, Ph.D.__  - Postdoctoral Researcher
-* __Karol Baca-López, M.Sc.__  - Graduate Research Assistant
+* __[Karol Baca-López, M.Sc.][F]__  - Graduate Research Assistant
 * __Tadeo E. Velázquez-Caldelas__ - Research Assistant
 * __[Hugo Tovar, MSc.][B]__ - Ph.D. student (Biological Sciences)
 * __[Guillermo de Anda-Jaúregui, B.Sc.][D]__ - Ph.D. student (Biomedical Sciences)
@@ -116,3 +116,4 @@ Some recent news from the group (as of July 15th, 2014):
 [C]: http://csbig.inmegen.gob.mx/people/raul_mejia/
 [D]: http://csbig.inmegen.gob.mx/people/guillermo_deAndaJ/
 [E]: http://csbig.inmegen.gob.mx/people/diana_drago/
+[F]: http://csbig.inmegen.gob.mx/people/Karol_BacaLopez/
