@@ -11,8 +11,8 @@ permalink: /hugo_tovar/
 #### Academic Background
 
 * BSc in Biology - Universidad Nacional Autónoma de México
-* MSc in Biolgic Sciences - Universidad Nacional Autónoma de México
-* PhD in Biolgic Sciences - Universidad Nacional Autónoma de México (at present)
+* MSc in Biologic Sciences - Universidad Nacional Autónoma de México
+* PhD in Biologic Sciences - Universidad Nacional Autónoma de México (at present)
 
 #### Work in progress
 * PhD Main Project: Transcriptional Master regulatory analisys in breast cancer genetic networks

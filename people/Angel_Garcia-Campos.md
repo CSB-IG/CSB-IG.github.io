@@ -11,7 +11,7 @@ permalink: /angel_campos/
 #### Academic Background
 
 * BSc in Biology - Universidad Nacional Autónoma de México
-* MSc in Biolgic Sciences - Universidad Nacional Autónoma de México (at present)
+* MSc in Biologic Sciences - Universidad Nacional Autónoma de México (at present)
 
 #### Work in progress
 * MSc Main Project: Analysis of the relationships between the apoptotic and
