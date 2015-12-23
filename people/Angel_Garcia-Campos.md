@@ -28,7 +28,7 @@ autophagic pathways in breast cancer
 
 #### Publications
 
-* Review article: [Pathway Analysis: State of the Art][C], MA García-Campos, J Espinal-Enríquez, E Hernandez-Lemus,Frontiers in Physiology 6, 383, DOI: 10.3389/fphys.2015.00383
+* Review article: [Pathway Analysis: State of the Art][C], MA García-Campos, J Espinal-Enríquez, E Hernandez-Lemus, Frontiers in Physiology 6, 383, DOI: 10.3389/fphys.2015.00383
 * BSc Thesis: [Las catalasas de D. hansenii: Análisis de la complementación
 heteróloga en una mutante acatalasémica de S. cerevisiae][B]
 * Conference paper: [Physiological analysis of an acatalasemic Saccharomyces
