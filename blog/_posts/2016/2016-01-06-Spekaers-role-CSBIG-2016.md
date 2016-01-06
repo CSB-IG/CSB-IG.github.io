@@ -1,7 +1,7 @@
 ---
-title: Rol de expositores CSB-IG 2016
+title: Speakers role CSB-IG 2016
 layout: post
-description: "References and bibliography"
+description: "Speakers role CSB-IG 2016"
 author: AngelCampos
 ---
 
