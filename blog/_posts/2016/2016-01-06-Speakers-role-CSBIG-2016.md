@@ -4,7 +4,9 @@ layout: post
 description: "Speakers role CSB-IG 2016"
 author: AngelCampos
 ---
-Every Friday at 11:30 all our lab members review and discuss research articles in pursuit of knowledge and experience about ongoing research on Omic sciences, Cancer, network theory, among other topics.
+Every Friday at 11:30 am all our lab members review and discuss research articles in pursuit of knowledge and experience about ongoing research on Omic sciences, Cancer, network theory, among other topics.
+
+Here is our schedule for 2016:
 
 * January 8th - Jesús Espinal: Methilation article
 * January 15th - Guillermo de Anda: [Most Random Gene Expression Signatures Are Significantly Associated with Breast Cancer Outcome](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002240)
