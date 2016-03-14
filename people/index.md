@@ -4,28 +4,37 @@ layout: page
 
 ### Computational Systems Biology / Integrative Genomics group
 
-__Enrique Hernández-Lemus - Lead Researcher__
+* __[Enrique Hernández-Lemus][G] - Lead Researcher__
+* __Jesús Espinal-Enriquez, Ph.D.__  - Associate Researcher
+* __Kahorik González-Flores, B.Sc.__, Research Manager
 
-* __Jesús Espinal-Enriquez, Ph.D.__  - Postdoctoral Researcher
-* __[Karol Baca-López, M.Sc.][F]__  - Graduate Research Assistant
-* __Tadeo E. Velázquez-Caldelas__ - Research Assistant
-* __[Hugo Tovar, MSc.][B]__ - Ph.D. student (Biological Sciences)
+* __[Rodrigo García-Herrera (INMEGEN)][4]__, Head of the Bio OCmputing Unit
+* __[Hugo Tovar, MSc.][B]__, Computational Biologist
+* __Joshua Haase, Computational Biologist
+
 * __[Guillermo de Anda-Jaúregui, B.Sc.][D]__ - Ph.D. student (Biomedical Sciences)
 * __Sergio A. Alcalá-Corona, M.Sc.__ - Ph.D. student (Biomedical Sciences)
-* __[Raúl Alejandro Mejía Pedroza][C]__ -Ph.D. student (Biomedical Sciences)
-* __Adriana Nicasio-Collazo, M.Sc.__ * - Ph.D. student (Physics)
-* __Alexandra Delgado-González M.Sc.__ * - Ph.D.  student (Physics)
+* __[Raúl Alejandro Mejía Pedroza][C]__ - Ph.D. student (Biomedical Sciences)
 * __[Miguel Angel García-Campos, B.Sc.][A]__ - M.Sc. student (Biological Sciences)
 *  __[Diana Drago-García, B.Sc.][E]__ - M.Sc. student (Biochemical Sciences)
-* __Roselyn Lemus, MSc.__ - MSc. student (Molecular Oncology)
-* __Jorge Gutiérrez-Flores *__   - MSc. student (Chemistry)
-* __Alejandro Delijorge *__   - MSc. student (Electric and Computing Engineering)
+* __Tadeo E. Velázquez-Caldelas__ - M.Sc. student (Biochemical Sciences)
+* __Luis Felipe del Castillo Vazquez__- B.Sc. student (Mathematics)
+* __Ana Victoria Martínez__ - B.Sc. student (Physics)
+* __Ollin Demián Langle Chimai__ - B.Sc. student (Physics)
+* __Aldo J. Huerta Verde__  - Undergraduate student (Physics)
+* __Mireya Gachúz-Martínez__ - Undergraduate student (Biology)
+
+
+* __[Karol Baca-López, M.Sc.][F]__  - Guest Associate Researcher
+* __Adriana Nicasio-Collazo, M.Sc.__ * - External Ph.D student (Physics)
+* __Roselyn Lemus, MSc.__ - Guest Research Assitant
+* __Alejandro Delijorge *__   - External MSc. student (Electric and Computing Engineering)
+* __Jorge Gutiérrez-Flores *__   - External MSc. student (Chemistry)
+
+
+Alumni:
 * __Estefania Barreto-Reyna__- Graduate student (Computer Science)
 * __Héctor Daniel González-Terán__- Undergraduate student (Computer Science)
-* __Luis Felipe del Castillo Vazquez__- Undergraduate student (Computer Science)
-* __Mireya Gachúz-Martínez__ - Undergraduate student (Biology)
-* __Ana Victoria Martínez__ - Undergraduate student (Physics)
-* __Aldo J. Huerta Verde__  - Undergraduate student (Physics)
 * __Luis Enrique Cabrera Quio__ * - Summer internship (Genomic Sciences)
 
 ### News & Projects
@@ -43,7 +52,6 @@ Some recent news from the group (as of July 15th, 2014):
 
 #### In-House Collaborators:
 
-* [Rodrigo García-Herrera (INMEGEN)][4]
 * [Alfredo Hidalgo-Miranda (INMEGEN)][3]
 * [Claudia Rangel-Escareño (INMEGEN)][2]
 * [Nora Gutiérrez-Nájera (INMEGEN)][5]
@@ -117,3 +125,4 @@ Some recent news from the group (as of July 15th, 2014):
 [D]: http://csbig.inmegen.gob.mx/people/guillermo_deAndaJ/
 [E]: http://csbig.inmegen.gob.mx/people/diana_drago/
 [F]: http://csbig.inmegen.gob.mx/people/Karol_BacaLopez/
+[G]: http://csbig.inmegen.gob.mx/about/
