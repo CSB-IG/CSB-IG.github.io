@@ -3,6 +3,7 @@ title: Rodrigo García-Herrera
 layout: page
 permalink: /people/rodrigo_garcia/
 ---
+
 ![][image]
 
 __[ResearchGate][1] - [GitHub][2] - <mailto:rgarcia@inmegen.gob.mx>__
