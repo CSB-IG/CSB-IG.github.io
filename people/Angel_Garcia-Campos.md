@@ -1,7 +1,7 @@
 ---
 title: Angel García-Campos
 layout: page
-permalink: http://csbig.inmegen.gob.mx/people/angel_campos/
+permalink: csbig.inmegen.gob.mx/people/angel_campos
 ---
 
 ![image](/images/Profiles/mike.jpg)
