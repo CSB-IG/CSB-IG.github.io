@@ -3,9 +3,7 @@ title: Angel García-Campos
 layout: page
 permalink: /people/angel_campos
 ---
-
-![image](/images/Profiles/mike.jpg)
-
+![][image]
 
 __[ResearchGate][1] - [GitHub][2] - [Twitter][3] - <mailto:angel.campos@ciencias.unam.mx>__
 
@@ -35,6 +33,8 @@ heteróloga en una mutante acatalasémica de S. cerevisiae][B]
 * Conference paper: [Physiological analysis of an acatalasemic Saccharomyces
 cerevisiae complemented with the catalases from the euryhaline yeast
 Debaryomyces hansenii][A]
+
+[image]:https://cloud.githubusercontent.com/assets/9357097/13789860/87fc19c6-eaab-11e5-839c-2d413fd3a5ea.jpg
 
 [A]: https://www.researchgate.net/publication/278683392_Physiological_analysis_of_an_acatalasemic_Saccharomyces_cerevisiae_complemented_with_the_catalases_from_the_euryhaline_yeast_Debaryomyces_hanse
 [B]: https://www.researchgate.net/publication/278683656_Las_catalasas_de_D._hansenii_Anlisis_de_la_complementacin_heterloga_en_una_mutante_acatalasmica_de_S._cerevisiae

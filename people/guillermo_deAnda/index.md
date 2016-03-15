@@ -1,10 +1,10 @@
 ---
 title: Guillermo de Anda Jáuregui
 layout: page
-permalink: /guillermo_deAndaJ/
+permalink: /people/guillermo_deAndaJ/
 ---
 
-![image](/images/Profiles/memo.jpg)
+![][image]
 **[GitHub][2]**
 <mailto:guillermodeandajauregui@gmail.com>
 

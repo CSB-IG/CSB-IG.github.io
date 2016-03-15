@@ -1,7 +1,7 @@
 ---
 title: Hugo Tovar
 layout: page
-permalink: /hugo_tovar/
+permalink: /people/hugo_tovar/
 ---
 
 ![][image]

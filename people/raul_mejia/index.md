@@ -1,7 +1,7 @@
 ---
 title: Raúl Mejía-Pedroza
 layout: page
-permalink: /raul_mejia/
+permalink: /people/raul_mejia/
 ---
 
 **[GitHub][2]**

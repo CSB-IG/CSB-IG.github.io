@@ -1,7 +1,7 @@
 ---
 title: Karol Baca-López
 layout: page
-permalink: /Karol_BacaLopez/
+permalink: /people/karol_baca/
 ---
 
 ![][image]

@@ -1,6 +1,7 @@
 ---
 title: Rodrigo García-Herrera
 layout: page
+permalink: /people/rodrigo_garcia/
 ---
 
 # Rodrigo García Herrera

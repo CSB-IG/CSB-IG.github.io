@@ -119,10 +119,11 @@ Some recent news from the group (as of July 15th, 2014):
 [30]: http://qobweb.igc.gulbenkian.pt/pages/jorge/
 
 
-[A]: http://csb-ig.github.io//people/angel_campos
-[B]: http://csbig.inmegen.gob.mx/people/hugo_tovar/
-[C]: http://csbig.inmegen.gob.mx/people/raul_mejia/
-[D]: http://csbig.inmegen.gob.mx/people/guillermo_deAndaJ/
-[E]: http://csbig.inmegen.gob.mx/people/diana_drago/
-[F]: http://csbig.inmegen.gob.mx/people/Karol_BacaLopez/
+[A]: http://csb-ig.github.io/people/angel_campos/
+[B]: http://csb-ig.github.io/people/hugo_tovar/
+[C]: http://csb-ig.github.io/people/raul_mejia/
+[D]: http://csbig.inmegen.gob.mx/people/guillermo_deAnda/
+[E]: http://csb-ig.github.io/people/diana_drago/
+[F]: http://csb-ig.github.io/people/karol_baca/
 [G]: http://csbig.inmegen.gob.mx/about/
+[H]: http://csb-ig.github.io/people/rodrigo_garcia/
