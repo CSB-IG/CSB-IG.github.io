@@ -5,8 +5,8 @@ permalink: /people/hugo_tovar/
 ---
 
 ![][image]
-**[ResearchGate][1] | [GitHub][2] | [Twitter][3]**
-<mailto:hugo.tovar@ciencias.unam.mx>
+
+__[ResearchGate][1] - [GitHub][2] - [Twitter][3] - <mailto:hugo.tovar@ciencias.unam.mx>__
 
 #### Academic Background
 

@@ -4,9 +4,8 @@ layout: page
 permalink: /people/rodrigo_garcia/
 ---
 ![][image]
-[ResearchGate]
-[GitHub](https://github.com/rgarcia-herrera)
-<mailto:rgarcia@inmegen.gob.mx>
+
+__[ResearchGate][1] - [GitHub][2] - <mailto:rgarcia@inmegen.gob.mx>__
 
 #### Academic Background
 
@@ -24,3 +23,5 @@ permalink: /people/rodrigo_garcia/
 
 [image]: https://cloud.githubusercontent.com/assets/9357097/13790920/42ac7ed8-eab0-11e5-901f-eab2f7a050ae.png
 
+[1]: https://www.researchgate.net/profile/Rodrigo_Garcia-Herrera
+[2]: https://github.com/rgarcia-herrera

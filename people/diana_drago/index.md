@@ -5,8 +5,8 @@ permalink: /people/diana_drago/
 ---
 
 ![][image]
-**[ResearchGate][1] | [GitHub][2] | [Twitter][3]**
-<mailto:diana.drago.garcia@gmail.com>
+
+__[ResearchGate][1] - [GitHub][2] - [Twitter][3] - <mailto:diana.drago.garcia@gmail.com>__
 
 #### Academic Background
 
