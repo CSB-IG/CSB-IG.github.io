@@ -1,7 +1,6 @@
 ---
 title: Guillermo de Anda Jáuregui
 layout: page
-permalink: /people/guillermo_deAndaJ/
 ---
 
 ![][image]

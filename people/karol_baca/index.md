@@ -34,7 +34,7 @@ Hernández-Lemus, E.,  Baca-López, K. (2012) Bursting and synchronization in ge
 
 * Baca-López, K., Hernández-Lemus, E., Mayorga, M. (2009) Information-theoretical analysis of gene expression data to infer transcriptional interactions, Revista Mexicana de Física 55, 6, 456-466.
 
-[image]:https://i1.rgstatic.net/i/profile/9fcfd4fa96936d5939_l_e9227.jpg
+[image]:https://cloud.githubusercontent.com/assets/9357097/13795380/11897322-eac6-11e5-9b65-6821cf124f5e.png
 
 [1]: https://www.researchgate.net/profile/Karol_Baca_Lopez
 [2]: https://github.com/KarolBL
