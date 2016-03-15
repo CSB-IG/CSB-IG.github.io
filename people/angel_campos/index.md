@@ -7,7 +7,9 @@ permalink: /people/angel_campos
 ![image](/images/Profiles/mike.jpg)
 
 
-**[ResearchGate][1] | [GitHub][2] | [Twitter][3] | <mailto:angel.campos@ciencias.unam.mx> **
+**[ResearchGate][1] | [GitHub][2] | [Twitter][3]**
+
+<mailto:angel.campos@ciencias.unam.mx>
 
 #### Academic Background
 
