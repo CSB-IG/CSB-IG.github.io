@@ -119,7 +119,7 @@ Some recent news from the group (as of July 15th, 2014):
 [30]: http://qobweb.igc.gulbenkian.pt/pages/jorge/
 
 
-[A]: http://csbig.inmegen.gob.mx/people/angel_campos
+[A]: http://csb-ig.github.io//people/angel_campos
 [B]: http://csbig.inmegen.gob.mx/people/hugo_tovar/
 [C]: http://csbig.inmegen.gob.mx/people/raul_mejia/
 [D]: http://csbig.inmegen.gob.mx/people/guillermo_deAndaJ/
