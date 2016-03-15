@@ -2,8 +2,9 @@
 title: Guillermo de Anda Jáuregui
 layout: page
 ---
-
 ![][image]
+
+
 **[GitHub][2]**
 <mailto:guillermodeandajauregui@gmail.com>
 
