@@ -93,7 +93,7 @@ Some recent news from the group (as of July 15th, 2014):
 [5]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=16
 [6]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=25
 [7]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=223
-
+ 
 [8]: http://www.iimas.unam.mx/biblioteca/index.php/colaboradors/detalle/1/s
 [9]: http://www.fisio.cinvestav.mx/academicos/rudomin/
 [10]: http://www.ecologia.unam.mx/ie/academicos/alvarez/alvarez_contacto.htm
