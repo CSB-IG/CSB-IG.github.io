@@ -4,44 +4,44 @@ layout: page
 
 ### Computational Systems Biology / Integrative Genomics group
 
-* __[Enrique Hernández-Lemus][G] - Lead Researcher__
-* __Jesús Espinal-Enriquez, Ph.D.__  - Associate Researcher
+* __[Enrique Hernández-Lemus][G], Lead Researcher__
+* __Jesús Espinal-Enriquez, Ph.D.__, Associate Researcher
 * __Kahorik González-Flores, B.Sc.__, Research Manager
 
-* __[Rodrigo García-Herrera (INMEGEN)][4]__, Head of the Bio OCmputing Unit
+* __[Rodrigo García-Herrera][H]__, Head of the Bio Computing Unit
 * __[Hugo Tovar, MSc.][B]__, Computational Biologist
 * __Joshua Haase__, Computational Biologist
 
-* __[Guillermo de Anda-Jaúregui, B.Sc.][D]__ - Ph.D. student (Biomedical Sciences)
-* __Sergio A. Alcalá-Corona, M.Sc.__ - Ph.D. student (Biomedical Sciences)
-* __[Raúl Alejandro Mejía Pedroza][C]__ - Ph.D. student (Biomedical Sciences)
-* __[Miguel Angel García-Campos, B.Sc.][A]__ - M.Sc. student (Biological Sciences)
-*  __[Diana Drago-García, B.Sc.][E]__ - M.Sc. student (Biochemical Sciences)
-* __Tadeo E. Velázquez-Caldelas__ - M.Sc. student (Biochemical Sciences)
-* __Luis Felipe del Castillo Vazquez__- B.Sc. student (Mathematics)
-* __Ana Victoria Martínez__ - B.Sc. student (Physics)
-* __Ollin Demián Langle Chimai__ - B.Sc. student (Physics)
-* __Aldo J. Huerta Verde__  - Undergraduate student (Physics)
-* __Mireya Gachúz-Martínez__ - Undergraduate student (Biology)
+* __[Guillermo de Anda-Jaúregui, B.Sc.][D]__, Ph.D. student (Biomedical Sciences)
+* __Sergio A. Alcalá-Corona, M.Sc.__, Ph.D. student (Biomedical Sciences)
+* __[Raúl Alejandro Mejía Pedroza][C]__, Ph.D. student (Biomedical Sciences)
+* __[Miguel Angel García-Campos, B.Sc.][A]__, M.Sc. student (Biological Sciences)
+* __[Diana Drago-García, B.Sc.][E]__, M.Sc. student (Biochemical Sciences)
+* __Tadeo E. Velázquez-Caldelas__, M.Sc. student (Biochemical Sciences)
+* __Luis Felipe del Castillo Vazquez__, B.Sc. student (Mathematics)
+* __Ana Victoria Martínez__, B.Sc. student (Physics)
+* __Ollin Demián Langle Chimai__, B.Sc. student (Physics)
+* __Aldo J. Huerta Verde__ , Undergraduate student (Physics)
+* __Mireya Gachúz-Martínez__, Undergraduate student (Biology)
 
 
-* __[Karol Baca-López, M.Sc.][F]__  - Guest Associate Researcher
-* __Adriana Nicasio-Collazo, M.Sc.__ * - External Ph.D student (Physics)
-* __Roselyn Lemus, MSc.__ - Guest Research Assitant
-* __Alejandro Delijorge *__   - External MSc. student (Electric and Computing Engineering)
-* __Jorge Gutiérrez-Flores *__   - External MSc. student (Chemistry)
+* __[Karol Baca-López, M.Sc.][F]__ , Guest Associate Researcher
+* __Adriana Nicasio-Collazo, M.Sc.__, External Ph.D student (Physics)
+* __Roselyn Lemus, MSc.__, Guest Research Assitant
+* __Alejandro Delijorge__, External MSc. student (Electric and Computing Engineering)
+* __Jorge Gutiérrez-Flores__, External MSc. student (Chemistry)
 
 
 Alumni:
-* __Estefania Barreto-Reyna__- Graduate student (Computer Science)
-* __Héctor Daniel González-Terán__- Undergraduate student (Computer Science)
-* __Luis Enrique Cabrera Quio__ * - Summer internship (Genomic Sciences)
+* __Estefania Barreto-Reyna__, Graduate student (Computer Science)
+* __Héctor Daniel González-Terán__, Undergraduate student (Computer Science)
+* __Luis Enrique Cabrera Quio__ , Summer internship (Genomic Sciences)
 
 ### News & Projects
 
 Some recent news from the group (as of July 15th, 2014):
 
-* The project on _Complex networks in scientific collaboration leaded_ by Dr. Jesús Siqueiros (and involving several other members of this team) has been elected for a CONACYT basic research  grant.
+* The project on _Complex networks in scientific collaboration leaded_ by Dr. Jesús Siqueiros (and involving several other members of this team) has been elected for a CONACYT basic research grant.
 * Rodrigo Herrera and collabs just published a paper in __Science__ on the _genomical substructure of Native Americans_
 [http://www.ncbi.nlm.nih.gov/pubmed/24926019][1]
 * Dr. Jesús Espinal will receive a special on-time-graduation grant from UNAM
@@ -89,7 +89,6 @@ Some recent news from the group (as of July 15th, 2014):
 [1]: http://www.ncbi.nlm.nih.gov/pubmed/24926019
 [2]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=19
 [3]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=17
-[4]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=235
 [5]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=16
 [6]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=25
 [7]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=223
@@ -122,7 +121,7 @@ Some recent news from the group (as of July 15th, 2014):
 [A]: http://csb-ig.github.io/people/angel_campos/
 [B]: http://csb-ig.github.io/people/hugo_tovar/
 [C]: http://csb-ig.github.io/people/raul_mejia/
-[D]: http://csbig.inmegen.gob.mx/people/guillermo_deAnda/
+[D]: http://csb-ig.github.io/people/guillermo_deAnda/
 [E]: http://csb-ig.github.io/people/diana_drago/
 [F]: http://csb-ig.github.io/people/karol_baca/
 [G]: http://csbig.inmegen.gob.mx/about/

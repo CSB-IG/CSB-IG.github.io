@@ -33,7 +33,7 @@ permalink: /people/hugo_tovar/
 * Enrique Hernández-Lemus, Hugo Tovar and Carmen Mejía (2014) **Non-equilibrium thermodynamics analysis of transcriptional regulation kinetics.** Non-Equilib. Thermodyn. DOI: [10.1515/jnet-2014-0015][4].
 
 
-[image]:https://i1.rgstatic.net/i/profile/d912f508f3c219f720_l_7696c.jpg
+[image]:https://cloud.githubusercontent.com/assets/9357097/13790921/42b18bbc-eab0-11e5-94ac-1f1763513432.png
 
 [1]: https://www.researchgate.net/profile/Hugo_Tovar
 [2]: https://github.com/hachepunto

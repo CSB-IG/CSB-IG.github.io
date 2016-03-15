@@ -28,7 +28,7 @@ permalink: /people/diana_drago/
 * Awarded with Coca-Cola academic excellence grant for undergraduate study abroad
 * Accepted in the Biochemical Sciences MSc at UNAM (2015)
 
-[image]:https://i1.rgstatic.net/i/profile/7f10055a5ae2b8a4a0_l_c8cc1.jpg
+[image]:https://cloud.githubusercontent.com/assets/9357097/13790919/429d4e0e-eab0-11e5-8c82-b5b9a80146a9.png
 
 [1]: https://www.researchgate.net/profile/Diana_Drago_Garcia
 [2]: https://github.com/dianadrago

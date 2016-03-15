@@ -3,9 +3,7 @@ title: Rodrigo García-Herrera
 layout: page
 permalink: /people/rodrigo_garcia/
 ---
-
-# Rodrigo García Herrera
-
+![][image]
 [ResearchGate]
 [GitHub](https://github.com/rgarcia-herrera)
 <mailto:rgarcia@inmegen.gob.mx>
@@ -24,4 +22,5 @@ permalink: /people/rodrigo_garcia/
 
 #### Publications
 
+[image]: https://cloud.githubusercontent.com/assets/9357097/13790920/42ac7ed8-eab0-11e5-901f-eab2f7a050ae.png
 
