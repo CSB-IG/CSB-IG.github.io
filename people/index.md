@@ -10,7 +10,7 @@ layout: page
 
 * __[Rodrigo García-Herrera (INMEGEN)][4]__, Head of the Bio OCmputing Unit
 * __[Hugo Tovar, MSc.][B]__, Computational Biologist
-* __Joshua Haase, Computational Biologist
+* __Joshua Haase__, Computational Biologist
 
 * __[Guillermo de Anda-Jaúregui, B.Sc.][D]__ - Ph.D. student (Biomedical Sciences)
 * __Sergio A. Alcalá-Corona, M.Sc.__ - Ph.D. student (Biomedical Sciences)
