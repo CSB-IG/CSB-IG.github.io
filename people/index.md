@@ -33,6 +33,7 @@ layout: page
 
 
 Alumni:
+
 * __Estefania Barreto-Reyna__, Graduate student (Computer Science)
 * __Héctor Daniel González-Terán__, Undergraduate student (Computer Science)
 * __Luis Enrique Cabrera Quio__ , Summer internship (Genomic Sciences)
