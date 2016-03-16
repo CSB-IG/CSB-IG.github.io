@@ -9,7 +9,7 @@ __[ResearchGate][1] - [GitHub][2] - [Twitter][3] - <mailto:angel.campos@ciencias
 #### Academic Background
 
 * BSc in Biology - Universidad Nacional Autónoma de México
-* MSc in Biologic Sciences - Universidad Nacional Autónoma de México (at present)
+* MSc in Biological Sciences - Universidad Nacional Autónoma de México (at present)
 
 #### Work in progress
 * MSc Main Project: Analysis of the relationships between the apoptotic and
