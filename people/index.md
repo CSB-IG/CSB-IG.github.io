@@ -4,17 +4,17 @@ layout: page
 
 ### Computational Systems Biology / Integrative Genomics group
 
-* __[Enrique Hernández-Lemus][G], Lead Researcher__
+* __[Enrique Hernández-Lemus][G], Ph.D. Lead Researcher__
 * __Jesús Espinal-Enriquez, Ph.D.__, Associate Researcher
 * __Kahorik González-Flores, B.Sc.__, Research Manager
 
-* __[Rodrigo García-Herrera][H]__, Head of the Bio Computing Unit
+* __[Rodrigo García-Herrera, B.Eng.][H]__, Head of the Bio Computing Unit
 * __[Hugo Tovar, MSc.][B]__, Computational Biologist
-* __Joshua Haase__, Computational Biologist
+* __Joshua Haase, B.Eng.__, Computational Biologist
 
 * __[Guillermo de Anda-Jaúregui, B.Sc.][D]__, Ph.D. student (Biomedical Sciences)
 * __Sergio A. Alcalá-Corona, M.Sc.__, Ph.D. student (Biomedical Sciences)
-* __[Raúl Alejandro Mejía Pedroza][C]__, Ph.D. student (Biomedical Sciences)
+* __[Raúl Alejandro Mejía Pedroza, B.Sc.][C]__, Ph.D. student (Biomedical Sciences)
 * __[Miguel Angel García-Campos, B.Sc.][A]__, M.Sc. student (Biological Sciences)
 * __[Diana Drago-García, B.Sc.][E]__, M.Sc. student (Biochemical Sciences)
 * __Tadeo E. Velázquez-Caldelas__, M.Sc. student (Biochemical Sciences)
