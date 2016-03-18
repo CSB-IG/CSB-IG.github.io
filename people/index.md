@@ -4,7 +4,7 @@ layout: page
 
 ### Computational Systems Biology / Integrative Genomics group
 
-* __[Enrique Hernández-Lemus][G], Ph.D. Lead Researcher__
+* __[Enrique Hernández-Lemus][G], Ph.D., Lead Researcher__
 * __Jesús Espinal-Enriquez, Ph.D.__, Associate Researcher
 * __Kahorik González-Flores, B.Sc.__, Research Manager
 
@@ -34,7 +34,7 @@ layout: page
 
 Alumni:
 
-* __Estefania Barreto-Reyna__, Graduate student (Computer Science)
+* __Estefania Barreto-Reyna__, Graduate student (Physics)
 * __Héctor Daniel González-Terán__, Undergraduate student (Computer Science)
 * __Luis Enrique Cabrera Quio__ , Summer internship (Genomic Sciences)
 
