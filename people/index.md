@@ -13,7 +13,7 @@ layout: page
 * __Joshua Haase, B.Eng.__, Computational Biologist
 
 * __[Guillermo de Anda-Jaúregui, B.Sc.][D]__, Ph.D. student (Biomedical Sciences)
-* __Sergio A. Alcalá-Corona, M.Sc.__, Ph.D. student (Biomedical Sciences)
+* __[Sergio A. Alcalá-Corona, M.Sc.][I]__, Ph.D. student (Biomedical Sciences)
 * __[Raúl Alejandro Mejía Pedroza, B.Sc.][C]__, Ph.D. student (Biomedical Sciences)
 * __[Miguel Angel García-Campos, B.Sc.][A]__, M.Sc. student (Biological Sciences)
 * __[Diana Drago-García, B.Sc.][E]__, M.Sc. student (Biochemical Sciences)
@@ -127,3 +127,4 @@ Some recent news from the group (as of July 15th, 2014):
 [F]: http://csb-ig.github.io/people/karol_baca/
 [G]: http://csbig.inmegen.gob.mx/about/
 [H]: http://csb-ig.github.io/people/rodrigo_garcia/
+[I]: http://csb-ig.github.io/people/sergio_alcala/
