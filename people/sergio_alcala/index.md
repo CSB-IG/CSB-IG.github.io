@@ -1,7 +1,7 @@
 ---
 title: Sergio Antonio Alcalá-Corona
 layout: page
-permalink: /people/sergio_alcala
+permalink: /people/sergio_alcala/
 ---
 ![][image]
 
