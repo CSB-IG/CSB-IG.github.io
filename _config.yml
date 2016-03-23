@@ -13,7 +13,7 @@ exclude:
   - README.md
   - vendor/
 
-layouts: ./_noita
+layouts: /_noita
 
 noita:
   name: Computational Systems Biology/Integrative Genomics
