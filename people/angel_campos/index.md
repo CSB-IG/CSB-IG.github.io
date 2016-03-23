@@ -38,7 +38,6 @@ Debaryomyces hansenii][A]
 [A]: https://www.researchgate.net/publication/278683392_Physiological_analysis_of_an_acatalasemic_Saccharomyces_cerevisiae_complemented_with_the_catalases_from_the_euryhaline_yeast_Debaryomyces_hanse
 [B]: https://www.researchgate.net/publication/278683656_Las_catalasas_de_D._hansenii_Anlisis_de_la_complementacin_heterloga_en_una_mutante_acatalasmica_de_S._cerevisiae
 [C]: http://dx.doi.org/10.3389/fphys.2015.00383
-
 [1]: https://www.researchgate.net/profile/Angel_Garcia-Campos
 [2]: https://github.com/AngelCampos
 [3]: https://twitter.com/FangOokami
