@@ -35,6 +35,10 @@ __[ResearchGate][1] - [GitHub][2] - [Twitter][3] - <mailto:sergio.alcala@ciencia
 #### Academic Acomplishments
 * Lecturer at Sciences Faculty of UNAM (National Autonomous University of Mexico) 
 * Recognition (medal and diploma) for 10 years of academic services at UNAM 
+* CONACYT Scholarship holder (Aug 2014 - at present)
+* CONACYT Scholarship holder (Aug 2008 - Jul 2010)
+* UNAM-PAPIIT Scholarship holder  (Jun 2007 - May 2008)
+* UNAM-DGDC Scholarship holder "Science Divulgation" (Apr 2006 - May 2007)
 
 #### Publications
 
