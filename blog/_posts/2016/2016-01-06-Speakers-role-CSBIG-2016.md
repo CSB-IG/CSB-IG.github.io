@@ -1,12 +1,12 @@
 ---
 title: CSB-IG seminar speakers role 2016
 layout: post
-description: "Every Friday at 11:30 am all our lab members review and discuss research articles and their ongoing work. Main topics covered in our group seminars are Omic sciences, Cancer, network theory, bioinformatics, cell physiology, pharmacology among other topics."
+description: "Here is our seminar schedule for 2016"
 author: AngelCampos
 ---
-Every Friday at 11:30 am all our lab members review and discuss research articles and their ongoing work. Main topics covered in our group seminars are Omic sciences, Cancer, network theory, bioinformatics, cell physiology, pharmacology among other topics.
+Every Friday at 11:30 am all our lab members review and discuss recently published research articles from other groups and their ongoing work. Main topics covered in our group seminars are Omic sciences, Cancer, network theory, bioinformatics, cell physiology, pharmacology among other topics.
 
-Here is our schedule for 2016:
+Here is our seminar schedule for 2016:
 
 * January 15th - Jesús Espinal: Methilation article
 * January 22th - Guillermo de Anda - [Most Random Gene Expression Signatures Are Significantly Associated with Breast Cancer Outcome](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002240)
