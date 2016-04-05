@@ -17,7 +17,7 @@ __[ResearchGate][1] - [GitHub][2] - [Twitter][3] - <mailto:sergio.alcala@ciencia
 #### Work in progress
 * Ph.D. Main Project: Computational methods for searching functional communities in Gene Regulatory Networks (GRN).
 * Review and comparison of community detection methods applied to GRN.
-* Community detection methods applied to Biolocial Networks (, miRNAs Networks, GNR in several fenotipes and biological models).
+* Community detection methods applied to Biolocial Networks (GNR and miRNAs Networks in several fenotipes and biological models).
 * Enrichment analysis in breast cancer networks.
 * Conversion and analysis between Time Series and Networks.
 * Numeric Modelation of Physical-Chemical Systems
