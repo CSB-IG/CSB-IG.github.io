@@ -35,4 +35,4 @@ These are MeSH terms related to [this search](https://www.ncbi.nlm.nih.gov/pubme
 <div id="chart">
 </div>
 
-<script src="csbig_mesh.js"></script>
+<script src="../csbig_mesh.js"></script>
