@@ -31,6 +31,9 @@ layout: page
 
 These are MeSH terms related to [this search](https://www.ncbi.nlm.nih.gov/pubmed/?term=Enrique+Hern%C3%A1ndez+Lemus).
     
+Terms are connected if they appear together in an article. Node size represents degree.
+
+Have a look at the [source code](https://github.com/CSB-IG/CSB-IG.github.io/tree/master/publications).
 
 <div id="chart">
 </div>
