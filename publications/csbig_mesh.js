@@ -50,7 +50,7 @@ svg.append("svg:defs").selectAll("marker")
 
 
 
-d3.json("csbig_mesh.json", function(error, graph) {
+d3.json("../csbig_mesh.json", function(error, graph) {
     force
 	.nodes(graph.nodes)
 	.links(graph.links)
