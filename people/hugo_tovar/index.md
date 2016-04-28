@@ -11,8 +11,8 @@ __[ResearchGate][1] - [GitHub][2] - [Twitter][3] - <mailto:hugo.tovar@ciencias.u
 #### Academic Background
 
 * BSc in Biology - Universidad Nacional Autónoma de México
-* MSc in Biologic Sciences - Universidad Nacional Autónoma de México
-* PhD in Biologic Sciences - Universidad Nacional Autónoma de México (at present)
+* MSc in Biological Sciences - Universidad Nacional Autónoma de México
+* PhD in Biological Sciences - Universidad Nacional Autónoma de México (at present)
 
 #### Work in progress
 * PhD Main Project: Transcriptional Master regulatory analisys in breast cancer genetic networks
