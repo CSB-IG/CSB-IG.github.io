@@ -24,7 +24,7 @@ layout: page
 
 #### Publications
 
-*G de Anda-Jáuregui, TE Velázquez-Caldelas, J Espinal-Enríquez, E Hernández-Lemus, Transcriptional Network Architecture of Breast Cancer Molecular Subtypes, BMC Genomics, (submitted)
+* G de Anda-Jáuregui, TE Velázquez-Caldelas, J Espinal-Enríquez, E Hernández-Lemus, Transcriptional Network Architecture of Breast Cancer Molecular Subtypes, BMC Genomics, (submitted)
 * G De Anda-Jáuregui, RA Mejía-Pedroza, J Espinal-Enríquez, E Hernández-Lemus (2015) [Crosstalk events in the estrogen signaling pathway may act tamoxifen efficacy in breast cancer molecular subtypes][6], Comput Biol Chem. 2015 Dec;59 Pt B:42-54. doi: 10.1016/j.compbiolchem.2015.07.004 
 * Helgi Jung Cook ; Guillermo de Anda Jáuregui ; Kenneth Rubio Carrasco ; Lourdes Mayet Cruz ; [Comparación de perfiles de disolución. Impacto de los criterios de diferentes agencias regulatorias en el cálculo de f2][5], Revista Mexicana de Ciencias Farmacéuticas 2012, 43 (5)
 
