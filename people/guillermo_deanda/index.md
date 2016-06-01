@@ -25,7 +25,7 @@ layout: page
 #### Publications
 
 *G de Anda-Jáuregui, TE Velázquez-Caldelas, J Espinal-Enríquez, E Hernández-Lemus, Transcriptional Network Architecture of Breast Cancer Molecular Subtypes, BMC Genomics, (submitted)
-* G De Anda-Jáuregui, RA Mejía-Pedroza, J Espinal-Enríquez, E Hernández-Lemus (2015) Crosstalk events in the estrogen signaling pathway may act tamoxifen efficacy in breast cancer molecular subtypes, Comput Biol Chem. 2015 Dec;59 Pt B:42-54. doi: 10.1016/j.compbiolchem.2015.07.004 
+* G De Anda-Jáuregui, RA Mejía-Pedroza, J Espinal-Enríquez, E Hernández-Lemus (2015) [Crosstalk events in the estrogen signaling pathway may act tamoxifen efficacy in breast cancer molecular subtypes][6], Comput Biol Chem. 2015 Dec;59 Pt B:42-54. doi: 10.1016/j.compbiolchem.2015.07.004 
 * Helgi Jung Cook ; Guillermo de Anda Jáuregui ; Kenneth Rubio Carrasco ; Lourdes Mayet Cruz ; [Comparación de perfiles de disolución. Impacto de los criterios de diferentes agencias regulatorias en el cálculo de f2][5], Revista Mexicana de Ciencias Farmacéuticas 2012, 43 (5)
 
 #### Work in progress
@@ -39,4 +39,5 @@ layout: page
 
 [image]: https://github.com/CSB-IG/CSB-IG.github.io/blob/master/images/Profiles/memo_2.png
 [2]: https://github.com/guillermodeandajauregui
+[6]:http://www.ncbi.nlm.nih.gov/pubmed/26345254
 [5]:http://asociacionfarmaceuticamexicana.org.mx/revistas/2012/RMCF%20V43-3/ARTICULOS%20PDF/COMPARACION%20DE%20PERFILES%20DE%20DISOLUCION.%20IMPACTO%20DE%20LOS%20CRITERIOS%20DE%20DIFERENTES%20AGENCIAS%20REGULATORIAS%20EN%20EL%20CALCULO%20DE%20f2.pdf
