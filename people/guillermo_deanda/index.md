@@ -10,7 +10,7 @@ layout: page
 
 #### Academic Background
 
-* Pharmaceutic and biological chemist  UNAM - Faculty of Chemistry.
+* Pharmaceutical and biological chemist  UNAM - Faculty of Chemistry.
 * Ph.D. in Biomedical Sciences - UNAM (Summer 2016).
 
 #### Research Interests
