@@ -37,7 +37,7 @@ layout: page
 * Pharmacological modulation of pathways deregulated in breast cancer cell lines.
 
 
-[image]: https://github.com/CSB-IG/CSB-IG.github.io/blob/master/images/Profiles/memo_2.png
+[image]: https://cloud.githubusercontent.com/assets/9357097/15756335/64eccc38-28c6-11e6-9d82-cfb93ce1bb85.png
 [2]: https://github.com/guillermodeandajauregui
 [6]:http://www.ncbi.nlm.nih.gov/pubmed/26345254
 [5]:http://asociacionfarmaceuticamexicana.org.mx/revistas/2012/RMCF%20V43-3/ARTICULOS%20PDF/COMPARACION%20DE%20PERFILES%20DE%20DISOLUCION.%20IMPACTO%20DE%20LOS%20CRITERIOS%20DE%20DIFERENTES%20AGENCIAS%20REGULATORIAS%20EN%20EL%20CALCULO%20DE%20f2.pdf
