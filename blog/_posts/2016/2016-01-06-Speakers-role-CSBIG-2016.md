@@ -21,5 +21,5 @@ Here is our seminar schedule for 2016:
 * May 13th - No session
 * May 20th - Project advances - Tadeo & Miguel 
 * May 27th - Jesús Espinal - [Identification of drug–target interaction from interactome network with guilt-by-association’ principle and topology features](http://bioinformatics.oxfordjournals.org/content/32/7/1057.abstract)
-* June 3th - Joshua Haase - [Positive and negative forms of replicability in gene network analysis](http://bioinformatics.oxfordjournals.org/content/32/7/1065.abstract)
-* June 10th - Raúl Mejía [Genefu: an R/Bioconductor package for computation of gene expression-based signatures in breast cancer](http://bioinformatics.oxfordjournals.org/content/32/7/1097.abstract)
+* June 10th - Joshua Haase - [Positive and negative forms of replicability in gene network analysis](http://bioinformatics.oxfordjournals.org/content/32/7/1065.abstract)
+* June 17th - Raúl Mejía [Genefu: an R/Bioconductor package for computation of gene expression-based signatures in breast cancer](http://bioinformatics.oxfordjournals.org/content/32/7/1097.abstract)
