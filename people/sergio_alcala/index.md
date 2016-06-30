@@ -42,7 +42,7 @@ __[ResearchGate][1] - [GitHub][2] - [Twitter][3] - <mailto:sergio.alcala@ciencia
 
 #### Publications
 
-* [Community Structure Reveals Biologically Functional Modules in MEF2C Transcriptional Regulatory Network][C], Sergio A. Alcalá-Corona, Tadeo E. Velázquez-Caldelas, Jesús Espinal-Enríquez and Enrique Hernández-Lemus*, Frontiers in physiology 7 (2016).
+* [Community Structure Reveals Biologically Functional Modules in MEF2C Transcriptional Regulatory Network[C], Sergio A. Alcalá-Corona, Tadeo E. Velázquez-Caldelas, Jesús Espinal-Enríquez and Enrique Hernández-Lemus*, Frontiers in physiology 7 (2016).
 * [A Literature-Based Approach to a Narco-Network][A], Espinal-Enrıquez, J. ∗ , Siqueiros-Garcıa, J. M., Garcıa-Herrera, R., & Alcala-Corona, S. A., Social Informatics (pp. 97-101) (2014). Springer International Publishing (2014).
 * [Building blocks and search][B], Lozano, A., Mireles, V., Monsivais, D., Stephens, C. R. , Alcala, S. A., & Cervantes, F., MICAI 2009: Advances in Artificial Intelligence (pp. 704-715). Springer Berlin Heidelberg (2009).
 
@@ -51,6 +51,7 @@ __[ResearchGate][1] - [GitHub][2] - [Twitter][3] - <mailto:sergio.alcala@ciencia
 
 [A]: http://link.springer.com/chapter/10.1007/978-3-319-15168-7_13
 [B]: http://link.springer.com/chapter/10.1007/978-3-642-05258-3_62
+[C]: http://journal.frontiersin.org/article/10.3389/fphys.2016.00184/full
 
 [1]: https://www.researchgate.net/profile/Sergio_Alcala_Corona/
 [2]: https://github.com/saac/
