@@ -23,3 +23,18 @@ Here is our seminar schedule for 2016:
 * May 27th - Jesús Espinal - [Identification of drug–target interaction from interactome network with guilt-by-association’ principle and topology features](http://bioinformatics.oxfordjournals.org/content/32/7/1057.abstract)
 * June 10th - Joshua Haase - [Positive and negative forms of replicability in gene network analysis](http://bioinformatics.oxfordjournals.org/content/32/7/1065.abstract)
 * June 17th - Raúl Mejía [Genefu: an R/Bioconductor package for computation of gene expression-based signatures in breast cancer](http://bioinformatics.oxfordjournals.org/content/32/7/1097.abstract)
+* September 2nd - EHL (segunda clase ARACNE)
+* September 9th - Diana - [Parallel reverse genetic screening in mutant human cells using transcriptomics](http://msb.embopress.org/content/12/8/879)
+* Septembre 16th - Feriado
+* September 23th - Memo - [The hVps34‐SGK3 pathway alleviates sustained PI3K/Akt inhibition by stimulating mTORC1 and tumour growth](http://emboj.embopress.org/content/35/17/1902)
+* September 30th - Sergio - [Fifty years of graph matching, network alignment and network comparison](http://www.sciencedirect.com/science/article/pii/S002002551630010X)
+* October 7th - Hugo - [Integrating transcriptional and protein interaction networks to prioritize condition-specific master regulators](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-015-0228-1)
+* October 14th - Open LabMeeting (Pending Topic)
+* October 21th - Mike - [Pathway-based personalized analysis of breast cancer expression data](http://www.sciencedirect.com/science/article/pii/S1574789115000940)
+* October 28th - Open LabMeeting (Pending Topic)
+* November 4th - Karol - [Statistical	Inference,	Learning	and	Models	in	Big	Data](http://arxiv.org/pdf/1509.02900v2.pdf)
+* November 11th - No hay LabMeeting - Congreso Nacional de Bioquímica, iremos varios miembros del grupo
+* November 18th - Raúl - [Tumor-Derived Cell Lines as Molecular Models of Cancer Pharmacogenomics](http://mcr.aacrjournals.org/content/14/1/3)
+* November 25th - Tutorial rehearsals  I
+* December 2nd - Tutorial rehearsals II
+* December 9th - Tadeo - [Autophagy, Inflammation, and Immunity: A Troika Governing Cancer and Its Treatment](http://www.sciencedirect.com/science/article/pii/S0092867416306547)
