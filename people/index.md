@@ -8,11 +8,10 @@ layout: page
 * __Jesús Espinal-Enriquez, Ph.D.__, Associate Researcher
 * __Kahorik González-Flores, B.Sc.__, Research Manager
 
-* __[Rodrigo García-Herrera, B.Eng.][H]__, Head of the Bio Computing Unit
-* __[Hugo Tovar, MSc.][B]__, Computational Biologist
+* __[Hugo Tovar Ph.D.][B]__, Head of the Bio Computing Unit
 * __Joshua Haase, B.Eng.__, Computational Biologist
 
-* __[Guillermo de Anda-Jaúregui, B.Sc.][D]__, Ph.D. student (Biomedical Sciences)
+
 * __[Sergio A. Alcalá-Corona, M.Sc.][I]__, Ph.D. student (Biomedical Sciences)
 * __[Raúl Alejandro Mejía Pedroza, B.Sc.][C]__, Ph.D. student (Biomedical Sciences)
 * __[Miguel Angel García-Campos, B.Sc.][A]__, M.Sc. student (Biological Sciences)
@@ -25,6 +24,7 @@ layout: page
 * __Mireya Gachúz-Martínez__, Undergraduate student (Biology)
 
 
+* __[Guillermo de Anda-Jaúregui, Ph.D.][D]__,  Guest Associate Researcher
 * __[Karol Baca-López, M.Sc.][F]__ , Guest Associate Researcher
 * __Adriana Nicasio-Collazo, M.Sc.__, External Ph.D student (Physics)
 * __Roselyn Lemus, MSc.__, Guest Research Assitant
