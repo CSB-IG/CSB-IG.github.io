@@ -61,6 +61,7 @@ Some recent news from the group (as of July 15th, 2014):
 
 #### External Collaborators:
 
+* [Rodrigo Garcia Herrera (LANCIS-UNAM)][31]
 * [Jesús M. Siqueiros-García (IIMAS-UNAM)][8]
 * [Pablo Rudomín (CINVESTAV)][9]
 * [Elena Álvarez-Buylla (IE-UNAM)][10]
@@ -117,6 +118,7 @@ Some recent news from the group (as of July 15th, 2014):
 [28]: http://www.ibt.unam.mx/server/PRG.base?tipo:doc,dir:PRG.curriculum,par:darszon
 [29]: http://www.ibt.unam.mx/server/PRG.base?tipo:doc,dir:PRG.curriculum,par:adanog
 [30]: http://qobweb.igc.gulbenkian.pt/pages/jorge/
+[31]: https://www.researchgate.net/profile/Rodrigo_Garcia-Herrera
 
 
 [A]: http://csb-ig.github.io/people/angel_campos/
