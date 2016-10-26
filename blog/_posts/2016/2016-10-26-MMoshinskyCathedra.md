@@ -1,7 +1,7 @@
 ---
 title: Marcos Moshinsky Research Cathedra
 layout: post
-description: "Congratulations to Dr. Enrique Hernández Lemus!"
+description: " "
 author: AngelCampos
 ---
 
