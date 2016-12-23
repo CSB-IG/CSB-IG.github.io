@@ -8,21 +8,23 @@ __[ResearchGate][1] - [GitHub][2] - [Twitter][3] - <mailto:angel.campos@ciencias
 
 #### Academic Background
 
-* BSc in Biology - Universidad Nacional Autónoma de México
-* MSc in Biological Sciences - Universidad Nacional Autónoma de México (at present)
+* BSc in Biology - National Autonomous University of México
+* MSc in Biological Sciences - National Autonomous University of México
 
 #### Work in progress
-* MSc Main Project: Analysis of the relationships between the apoptotic and
+* Article preparation of MSc Project final results: Analysis of the relationships between the apoptotic and
 autophagic pathways in breast cancer
 
 #### Research Interests
 * Data Science
 * Systems Biology
 * Complexity Sciences
+* Cancer
 
 #### Academic acomplishments
 * Accepted in the Biological Sciences Graduate Program, UNAM (May 2014)
 * CONACYT Scholarship holder (Aug 2014 - present)
+* Prompt MSc Graduation Fellowship UNAM (December 2016)
 
 #### Publications
 
