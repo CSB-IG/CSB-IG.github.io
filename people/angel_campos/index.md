@@ -4,7 +4,7 @@ layout: page
 ---
 ![][image]
 
-__[ResearchGate][1] - [GitHub][2] - [Twitter][3] - <mailto:angel.campos@ciencias.unam.mx>__
+__[Google-Scholar][4] - [ResearchGate][1] - [GitHub][2] - [Twitter][3] - <mailto:angel.campos@ciencias.unam.mx>__
 
 #### Academic Background
 
@@ -43,3 +43,4 @@ Debaryomyces hansenii][A]
 [1]: https://www.researchgate.net/profile/Angel_Garcia-Campos
 [2]: https://github.com/AngelCampos
 [3]: https://twitter.com/FangOokami
+[4]: https://scholar.google.com.mx/citations?user=-J7nzzcAAAAJ
