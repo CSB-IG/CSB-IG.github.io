@@ -7,13 +7,13 @@ layout: page
 __[Google-Scholar][4] - [ResearchGate][1] - [GitHub][2] - [Twitter][3] - <mailto:angel.campos@ciencias.unam.mx>__
 
 #### Academic Background
-
-* BSc in Biology - National Autonomous University of México
-* MSc in Biological Sciences - National Autonomous University of México
+* PhD in Biological Sciences - Weizmann Institute of Science (On-going).
+* MSc in Biological Sciences - National Autonomous University of México.
+* BSc in Biology - National Autonomous University of México.
 
 #### Work in progress
 * Article preparation of MSc Project final results: Analysis of the relationships between the apoptotic and
-autophagic pathways in breast cancer
+autophagic pathways in breast cancer.
 
 #### Research Interests
 * Data Science
@@ -23,11 +23,10 @@ autophagic pathways in breast cancer
 
 #### Academic acomplishments
 * Accepted in the Biological Sciences Graduate Program, UNAM (May 2014)
-* CONACYT Scholarship holder (Aug 2014 - present)
+* CONACYT Scholarship (Aug 2014 - July 2016)
 * Prompt MSc Graduation Fellowship UNAM (December 2016)
 
 #### Publications
-
 * Review article: [Pathway Analysis: State of the Art][C], MA García-Campos, J Espinal-Enríquez, E Hernandez-Lemus, Frontiers in Physiology 6, 383, DOI: 10.3389/fphys.2015.00383
 * BSc Thesis: [Las catalasas de D. hansenii: Análisis de la complementación
 heteróloga en una mutante acatalasémica de S. cerevisiae][B]
