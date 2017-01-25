@@ -4,6 +4,8 @@ layout: page
 ---
 ![Enrique Hernandez PhD](/images/ehl.jpg)
 
+__[Google-Scholar][A] - [ResearchGate][B] - [GitHub][C] - - <mailto:ehernandez@inmegen.gob.mx>__
+
 During his doctorate, Professor Hernández-Lemus worked in theoretical chemical physics and non-equilibrium statistical physics. In particular, he developed an irreversible thermodynamics formalism to study molecular systems in the critical point far from equilibrium. In the context of this formalism, by extending ideas from measure theory and mathematical statistical mechanics, he was able to derive correlation functions for non-equilibrium systems without using equilibrium closures (such as the Ornstein-Zernike). This work was the first fully-analytical study, free from adjustable parameters, to describe appropriately (both quantitatively and qualitatively) the critical co-solution transition for a binary mixture with its associated transport processes [Hernández-Lemus, E. García-Colín, L.S., Non-equilibrium critical behavior: An extended irreversible thermodynamics approach, Jou. of Non-Equil. Thermodyn., 31, 4, 397-417, (2006)].
 
 Within biological physics and computational systems biology, current research includes the development of a non-equilibrium thermodynamics theoretical framework to study whole genome transcriptional regulation in eukaryotes (humans in particular) [Hernández-Lemus, E., Non-Equilibrium Thermodynamics of Gene Expression and Transcriptional Regulation, Jou. of Non-Equil. Thermodyn., 34, 4, 371-394, (2009)].
@@ -16,3 +18,7 @@ Dr. Hernández- Lemus is also a strong advocate for OpenScience/OpenAccess [He i
 
 [1]: http://www.plosone.org/
 [2]: http://www.frontiersin.org/physiology
+
+[A]: https://scholar.google.com.mx/citations?user=0Y6rf6YAAAAJ&hl
+[B]: https://www.researchgate.net/profile/Enrique_Hernandez-Lemus
+[C]: https://github.com/CSB-IG

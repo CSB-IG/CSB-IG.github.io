@@ -1,4 +1,5 @@
 ---
+title: Contact
 layout: page
 ---
 
@@ -7,7 +8,6 @@ layout: page
 Any inquiries related to this research group should be addressed to
 
 ### Enrique Hernández-Lemus, Ph.D.
-
 
 Computational Genomics Consortium
 <br/>National Institute of Genomic Medicine - México

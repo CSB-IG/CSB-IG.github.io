@@ -1,8 +1,7 @@
 ---
+title: CSB-IG Group
 layout: page
 ---
-
-### CSB-IG Group
 
 <img src="/images/CloudSysBio.jpg" width="250px">
 

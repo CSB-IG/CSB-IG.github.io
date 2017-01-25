@@ -1,8 +1,7 @@
 ---
+title: Computational Systems Biology / Integrative Genomics group
 layout: page
 ---
-
-### Computational Systems Biology / Integrative Genomics group
 
 * __[Enrique Hernández-Lemus][G], Ph.D., Lead Researcher__
 * __Jesús Espinal-Enriquez, Ph.D.__, Associate Researcher

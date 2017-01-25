@@ -1,19 +1,22 @@
 ---
+title: Publications
 layout: page
 ---
-### Publications
 <br/>
-We are strong enforcers of the __Open Access/Open Science__ paradigm. Most of our (recent) publications are thus available to everyone. For those that are not, please contact us to get a copy.
+We are strong advocates of the __Open Access/Open Science__ paradigms. Most of our (recent) publications are thus available to everyone. For those that are not, please contact us to get a copy via e-mail.
 
-## Books
+### Google Scholar Profiles
+* [Enrique Hernández-Lemus](https://scholar.google.com.mx/citations?user=0Y6rf6YAAAAJ&hl)
+* [Jesus Espinal-Enríquez](https://scholar.google.com.mx/citations?user=-Tr0oHQAAAAJ&hl)
+* [Hugo Tovar](https://scholar.google.com.mx/citations?user=iEQS3dsAAAAJ&hl)
+* [Miguel Angel García-Campos](https://scholar.google.com.mx/citations?user=-J7nzzcAAAAJ)
 
-
+### Books
 * Baca-López, K., Hernández-Lemus, E., Mayorga, M., __Física biológica y regulación transcripcional en cáncer__, Editorial Académica Española LAP - Lambert Academic Publishing GmbH & Co. KG, No. 10809, ISBN: 978-3-659-00492-6 (2012) [In Spanish]
 
 * Nicasio-Collazo, L.A., Castañeda-Priego, R., Hernández-Lemus, E., __Daño al ADN por estrés__, Editorial Académica Española LAP - Lambert Academic Publishing GmbH & Co. KG, No. 10809, ISBN: 978-3-659-01480-2 (2013) [In Spanish]
 
-## Journal Articles and Book Chapters
-
+### Journal Articles and Book Chapters
 Hernández-Lemus, E., __Systems Biology and Integrative Omics in Breast Cancer__, in Omics of Breast Cancer, Barh, D. (ed.), Springer (2014) (In Press).
 <br/>[http://www.springer.com/medicine/oncology/book/978-81-322-0842-6][42]
 
