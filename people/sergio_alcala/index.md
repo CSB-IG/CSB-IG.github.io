@@ -42,6 +42,8 @@ __[ResearchGate][1] - [GitHub][2] - [Twitter][3] - <mailto:sergio.alcala@ciencia
 
 #### Publications
 
+* [A game-theory modeling approach to utility and strength of interactions dynamics in biomedical research social networks][D], J. Mario Siqueiros-García, Rodrigo García-Herrera, Enrique Hernández-Lemus and Sergio Alcalá-Corona*, Complex Adaptive Systems Modeling 5.1 (2017): 5.
+
 * [Community Structure Reveals Biologically Functional Modules in MEF2C Transcriptional Regulatory Network][C], Sergio A. Alcalá-Corona, Tadeo E. Velázquez-Caldelas, Jesús Espinal-Enríquez and Enrique Hernández-Lemus*, Frontiers in physiology 7 (2016).
 * [A Literature-Based Approach to a Narco-Network][A], Espinal-Enrıquez, J. ∗ , Siqueiros-Garcıa, J. M., Garcıa-Herrera, R., & Alcala-Corona, S. A., Social Informatics (pp. 97-101) (2014). Springer International Publishing (2014).
 * [Building blocks and search][B], Lozano, A., Mireles, V., Monsivais, D., Stephens, C. R. , Alcala, S. A., & Cervantes, F., MICAI 2009: Advances in Artificial Intelligence (pp. 704-715). Springer Berlin Heidelberg (2009).
@@ -52,6 +54,7 @@ __[ResearchGate][1] - [GitHub][2] - [Twitter][3] - <mailto:sergio.alcala@ciencia
 [A]: http://link.springer.com/chapter/10.1007/978-3-319-15168-7_13
 [B]: http://link.springer.com/chapter/10.1007/978-3-642-05258-3_62
 [C]: http://journal.frontiersin.org/article/10.3389/fphys.2016.00184/full
+[D]: https://casmodeling.springeropen.com/articles/10.1186/s40294-017-0044-0
 
 [1]: https://www.researchgate.net/profile/Sergio_Alcala_Corona/
 [2]: https://github.com/saac/
