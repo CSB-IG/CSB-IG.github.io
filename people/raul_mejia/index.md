@@ -19,6 +19,7 @@ associated with specific pathways for the treatment of molecular subgroups in br
 #### Research Interests
 * Genomic Medicine
 * Systems Biology
+* Medical Informatics
 
 #### Academic acomplishments
 * Mexican Academy of Sciences Award "viveConciencia" (Nov 2014), in the public health category with the project of a web based plataform for the National System of Healthcare.
