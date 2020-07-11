@@ -2,7 +2,7 @@
 title: About Enrique Hernández-Lemus
 layout: page
 ---
-![Enrique Hernandez PhD](/images/ehl.jpg)
+![Enrique Hernandez PhD](/images/IMG_0102.JPG)
 
 __[Google-Scholar][A] - [ResearchGate][B] - [GitHub][C] - - <mailto:ehernandez@inmegen.gob.mx>__
 
