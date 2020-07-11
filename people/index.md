@@ -3,50 +3,15 @@ title: Computational Systems Biology / Integrative Genomics group
 layout: page
 ---
 
-* __[Enrique Hernández-Lemus][G], Ph.D., Lead Researcher__
-* __Jesús Espinal-Enriquez, Ph.D.__, Associate Researcher
-* __Kahorik González-Flores, B.Sc.__, Research Manager
+* __[Enrique Hernández-Lemus][G], Ph.D., Lead Researcher, Principal Investigator__
+* __Jesús Espinal-Enriquez, Ph.D.__, Principal Investigator
+* __[Guillermo de Anda-Jaúregui, Ph.D.][D]__, Associate Researcher
+* __[Hugo Tovar Ph.D.][B]__, Researcher
 
-* __[Hugo Tovar Ph.D.][B]__, Head of the Bio Computing Unit
-* __Joshua Haase, B.Eng.__, Computational Biologist
-
-
-* __[Sergio A. Alcalá-Corona, M.Sc.][I]__, Ph.D. student (Biomedical Sciences)
-* __[Raúl Alejandro Mejía Pedroza, B.Sc.][C]__, Ph.D. student (Biomedical Sciences)
-* __[Miguel Angel García-Campos, B.Sc.][A]__, M.Sc. student (Biological Sciences)
-* __[Diana Drago-García, B.Sc.][E]__, M.Sc. student (Biochemical Sciences)
-* __Tadeo E. Velázquez-Caldelas__, M.Sc. student (Biochemical Sciences)
+* __Tadeo E. Velázquez-Caldelas__, Ph.D. student (Biochemical Sciences)
 * __Luis Felipe del Castillo Vazquez__, B.Sc. student (Mathematics)
-* __Ana Victoria Martínez__, B.Sc. student (Physics)
-* __Ollin Demián Langle Chimai__, B.Sc. student (Physics)
-* __Aldo J. Huerta Verde__ , Undergraduate student (Physics)
 * __Mireya Gachúz-Martínez__, Undergraduate student (Biology)
 
-
-* __[Guillermo de Anda-Jaúregui, Ph.D.][D]__,  Guest Associate Researcher
-* __[Karol Baca-López, M.Sc.][F]__ , Guest Associate Researcher
-* __Adriana Nicasio-Collazo, M.Sc.__, External Ph.D student (Physics)
-* __Roselyn Lemus, MSc.__, Guest Research Assitant
-* __Alejandro Delijorge__, External MSc. student (Electric and Computing Engineering)
-* __Jorge Gutiérrez-Flores__, External MSc. student (Chemistry)
-
-
-Alumni:
-
-* __Estefania Barreto-Reyna__, Graduate student (Physics)
-* __Héctor Daniel González-Terán__, Undergraduate student (Computer Science)
-* __Luis Enrique Cabrera Quio__ , Summer internship (Genomic Sciences)
-
-### News & Projects
-
-Some recent news from the group (as of July 15th, 2014):
-
-* The project on _Complex networks in scientific collaboration leaded_ by Dr. Jesús Siqueiros (and involving several other members of this team) has been elected for a CONACYT basic research grant.
-* Rodrigo Herrera and collabs just published a paper in __Science__ on the _genomical substructure of Native Americans_
-[http://www.ncbi.nlm.nih.gov/pubmed/24926019][1]
-* Dr. Jesús Espinal will receive a special on-time-graduation grant from UNAM
-* Dr. Jesús Espinal just had just accepted his paper on _Sperm motillity networks_ in PLoS ONE
-* Hugo Tovar has been entitled for an early-graduation support grant from UNAM
 
 ### Collaborators
 
@@ -84,6 +49,10 @@ Some recent news from the group (as of July 15th, 2014):
 * [Alberto Darszon (IBT-UNAM)][28]
 * [Adán Guerrero (LNMA-UNAM)][29]
 * [Jorge Carneiro (Instituto Gulbenkian de Ciencia, Portugal)][30]
+* __[Sergio A. Alcalá-Corona, Ph.D.][I]__, Collaborator
+* __[Raúl Alejandro Mejía Pedroza,M.D., Ph.D.][C]__, Collaborator
+* __[Miguel Angel García-Campos, M.Sc.][A]__, Collaborator
+* __[Diana Drago-García, M.Sc.][E]__, Collaborator
 
 
 
