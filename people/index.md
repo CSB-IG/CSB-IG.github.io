@@ -4,7 +4,7 @@ layout: page
 ---
 
 * __[Enrique Hernández-Lemus][G], Ph.D., Lead Researcher, Principal Investigator__
-* __[Jesús Espinal-Enriquez][], Ph.D._, Principal Investigator_
+* __[Jesús Espinal-Enriquez][J], Ph.D._, Principal Investigator_
 * __[Guillermo de Anda-Jaúregui, Ph.D.][D], Associate Researcher__
 * __[Hugo Tovar Ph.D.][B], Researcher__
 
