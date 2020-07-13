@@ -6,6 +6,7 @@ layout: page
 * __[Enrique Hernández-Lemus][G], Ph.D., Lead Researcher, Principal Investigator__
 * __[Jesús Espinal-Enriquez][J], Ph.D., Principal Investigator__
 * __[Guillermo de Anda-Jaúregui][D], Ph.D., Associate Researcher__
+* __[Santiago Sandoval-Motta][L], Ph.D., Associate Researcher__
 * __[Hugo Tovar][B], Ph.D., Associate Researcher__
 * __[Laura Gómez-Romero][K], Ph.D., Associate Researcher__
 
@@ -120,3 +121,5 @@ layout: page
 [I]: http://csb-ig.github.io/people/sergio_alcala/
 [J]: https://github.com/orgs/CSB-IG/people/jesusespinal
 [K]: https://www.inmegen.gob.mx/investigacion/investigadores/curriculum-vitae/?perfil=6105
+[L]: https://scholar.google.com/citations?hl=es&user=1Ud8j-UAAAAJ
+
