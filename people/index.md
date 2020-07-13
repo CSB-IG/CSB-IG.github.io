@@ -17,10 +17,16 @@ layout: page
 * __Helena Reyes Gopar__, Ph.D. student (Biomedical Sciences)
 * __Diana E. García Cortés__, Ph.D. student (Biomedical Sciences)
 * __Jose María Zamora Fuentes__, Ph.D. student (Biomedical Sciences)
+
+---
+
 * __Martin Ruhle__, M.Sc. student (Biochemical Sciences)
 * __Alejandro Juárez Toribio__, M.Sc. student (Physics)
 * __Karina Reyes López__, M.Sc. student (Biochemical Sciences)
 * __Erandi Serrano__, M.Sc. student (Biochemical Sciences)
+
+---
+
 * __Luis Felipe del Castillo Vazquez__, B.Sc. student (Mathematics)
 * __Alejandra Yuriko Yamamoto Elizalde__, B.Sc. student (Physics)
 * __Mireya Gachúz-Martínez__, Undergraduate student (Biology)
