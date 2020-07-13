@@ -24,6 +24,7 @@ layout: page
 * __Alejandra Yuriko Yamamoto Elizalde__, B.Sc. student (Physics)
 * __Mireya Gachúz-Martínez__, Undergraduate student (Biology)
 
+---
 
 ### Collaborators
 
