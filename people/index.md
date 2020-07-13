@@ -4,7 +4,7 @@ layout: page
 ---
 
 * __[Enrique Hernández-Lemus][G], Ph.D., Lead Researcher, Principal Investigator__
-* __Jesús Espinal-Enriquez, Ph.D._, Principal Investigator_
+* __[Jesús Espinal-Enriquez][], Ph.D._, Principal Investigator_
 * __[Guillermo de Anda-Jaúregui, Ph.D.][D], Associate Researcher__
 * __[Hugo Tovar Ph.D.][B], Researcher__
 
@@ -108,3 +108,4 @@ layout: page
 [G]: http://csbig.inmegen.gob.mx/about/
 [H]: http://csb-ig.github.io/people/rodrigo_garcia/
 [I]: http://csb-ig.github.io/people/sergio_alcala/
+[J]: https://github.com/orgs/CSB-IG/people/jesusespinal
