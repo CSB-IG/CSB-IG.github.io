@@ -4,12 +4,22 @@ layout: page
 ---
 
 * __[Enrique Hernández-Lemus][G], Ph.D., Lead Researcher, Principal Investigator__
-* __Jesús Espinal-Enriquez, Ph.D.__, Principal Investigator
-* __[Guillermo de Anda-Jaúregui, Ph.D.][D]__, Associate Researcher
-* __[Hugo Tovar Ph.D.][B]__, Researcher
+* __Jesús Espinal-Enriquez, Ph.D._, Principal Investigator_
+* __[Guillermo de Anda-Jaúregui, Ph.D.][D], Associate Researcher__
+* __[Hugo Tovar Ph.D.][B], Researcher__
 
-* __Tadeo E. Velázquez-Caldelas__, Ph.D. student (Biochemical Sciences)
+* __Tadeo E. Velázquez-Caldelas__, Ph.D. student (Biochemical Sciences) 
+* __Diana E. Tapia-Carrillo__, Ph.D. student (Biological Sciences)
+* __Soledad Ochoa__, Ph.D. student (Biomedical Sciences)
+* __Helena Reyes Gopar__, Ph.D. student (Biomedical Sciences)
+* __Diana E. García Cortés__, Ph.D. student (Biomedical Sciences)
+* __Jose María Zamora Fuentes__, Ph.D. student (Biomedical Sciences)
+* __Martin Ruhle__, M.Sc. student (Biochemical Sciences)
+* __Alejandro Juárez Toribio__, M.Sc. student (Physics)
+* __Karina Reyes López__, M.Sc. student (Biochemical Sciences)
+* __Erandi Serrano__, M.Sc. student (Biochemical Sciences)
 * __Luis Felipe del Castillo Vazquez__, B.Sc. student (Mathematics)
+* __Alejandra Yuriko Yamamoto Elizalde__, B.Sc. student (Physics)
 * __Mireya Gachúz-Martínez__, Undergraduate student (Biology)
 
 
@@ -49,10 +59,10 @@ layout: page
 * [Alberto Darszon (IBT-UNAM)][28]
 * [Adán Guerrero (LNMA-UNAM)][29]
 * [Jorge Carneiro (Instituto Gulbenkian de Ciencia, Portugal)][30]
-* __[Sergio A. Alcalá-Corona, Ph.D.][I]__, Collaborator
-* __[Raúl Alejandro Mejía Pedroza,M.D., Ph.D.][C]__, Collaborator
-* __[Miguel Angel García-Campos, M.Sc.][A]__, Collaborator
-* __[Diana Drago-García, M.Sc.][E]__, Collaborator
+* __[Sergio A. Alcalá-Corona, Ph.D.][I]__, (IFC_UNAM)
+* __[Raúl Alejandro Mejía Pedroza,M.D., Ph.D.][C]__, (University of Wien)
+* __[Miguel Angel García-Campos, M.Sc.][A]__, (Weizmann Institute of Science)
+* __[Diana Drago-García, M.Sc.][E]__, (Weizmann Institute of Science)
 
 
 
