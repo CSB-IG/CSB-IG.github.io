@@ -7,7 +7,7 @@ layout: page
 * __[Jesús Espinal-Enriquez][J], Ph.D., Principal Investigator__
 * __[Guillermo de Anda-Jaúregui][D], Ph.D., Associate Researcher__
 * __[Hugo Tovar][B], Ph.D., Associate Researcher__
-* __[Laura Gómez-Romero][B], Ph.D., Associate Researcher__
+* __[Laura Gómez-Romero][K], Ph.D., Associate Researcher__
 
 ---
 
@@ -113,3 +113,4 @@ layout: page
 [H]: http://csb-ig.github.io/people/rodrigo_garcia/
 [I]: http://csb-ig.github.io/people/sergio_alcala/
 [J]: https://github.com/orgs/CSB-IG/people/jesusespinal
+[K]: https://www.inmegen.gob.mx/investigacion/investigadores/curriculum-vitae/?perfil=6105
