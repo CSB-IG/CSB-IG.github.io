@@ -8,6 +8,8 @@ layout: page
 * __[Guillermo de Anda-Jaúregui, Ph.D.][D], Associate Researcher__
 * __[Hugo Tovar Ph.D.][B], Researcher__
 
+---
+
 * __Tadeo E. Velázquez-Caldelas__, Ph.D. student (Biochemical Sciences) 
 * __Diana E. Tapia-Carrillo__, Ph.D. student (Biological Sciences)
 * __Soledad Ochoa__, Ph.D. student (Biomedical Sciences)
