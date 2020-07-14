@@ -1,7 +1,7 @@
 markdown: kramdown
 kramdown:
   input: GFM
-permalink: /blog/:year/:title/
+permalink: /home
 exclude:
   - CNAME
   - Gemfile
