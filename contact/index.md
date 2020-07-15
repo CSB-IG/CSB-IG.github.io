@@ -22,7 +22,7 @@ Ph: + 52 55 53501970
 
 ### Networking
 <br/>[https://github.com/CSB-IG][3]
-<br/>[http://inmegen.academia.edu/EnriqueHernandezLemus][4]
+<br/>[https://twitter.com/Iehchel][4]
 <br/>[https://www.researchgate.net/profile/Enrique_Hernandez-Lemus/][6]
 <br/>[http://orcid.org/0000-0002-1872-1397][7]
 
@@ -31,6 +31,6 @@ Ph: + 52 55 53501970
 [1]: ehernandez@inmegen.gob.mx
 [2]: http://csbig.inmegen.gob.mx/about/
 [3]: https://github.com/CSB-IG
-[4]: http://inmegen.academia.edu/EnriqueHernandezLemus
+[4]: https://twitter.com/Iehchel
 [6]: https://www.researchgate.net/profile/Enrique_Hernandez-Lemus/
 [7]: http://orcid.org/0000-0002-1872-1397
