@@ -25,6 +25,7 @@ layout: page
 * __Alejandro Juárez Toribio__, M.Sc. student (Physics)
 * __Karina Reyes López__, M.Sc. student (Biochemical Sciences)
 * __Erandi Serrano__, M.Sc. student (Biochemical Sciences)
+* __María Fernanda Cortés Sierra__, M.Sc. student (Biochemical Sciences)
 
 ---
 
