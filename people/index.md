@@ -13,6 +13,7 @@ layout: page
 ---
 
 * __Tadeo E. Velázquez-Caldelas__, Ph.D. student (Biochemical Sciences) 
+* __Karol Baca-López__, Ph.D. student (Health Sciences) 
 * __Diana E. Tapia-Carrillo__, Ph.D. student (Biological Sciences)
 * __Soledad Ochoa__, Ph.D. student (Biomedical Sciences)
 * __Helena Reyes Gopar__, Ph.D. student (Biomedical Sciences)
