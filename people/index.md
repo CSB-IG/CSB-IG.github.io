@@ -51,21 +51,19 @@ layout: page
 * [Jesús M. Siqueiros-García (IIMAS-UNAM)][8]
 * [Pablo Rudomín (CINVESTAV)][9]
 * [Elena Álvarez-Buylla (IE-UNAM)][10]
-* [Carmen Mejía (IIB-UNAM)][11]
+* [Carmen Mejía (UAQ)][11]
 * [Ramón Castañeda-Priego (U Guanajuato)][12]
 * [Lena Ruiz-Azuara (FQ-UNAM)][13]
 * [Laura Uribe (Affymetrix)][14]
 * [Rodrigo Galindo-Murillo (U Utah)][15]
 * [Edgardo Ugalde (IF-UASLP)][16]
 * [Beatríz Luna-Olivera (UNPA)][17]
-* [Alán Aspuru-Guzik (U Harvard)][18]
-* [Erika E. Rodríguez (UAEH/CINVESTAV)][19]
+* [Alán Aspuru-Guzik (U Toronto)][18]
+* [Erika E. Rodríguez (UAEH)][19]
 * [David P. Sanders (FC-UNAM)][20]
 * [Francisco F. De Miguel (IFC-UNAM)][21]
 * [Miguel Rubí (U Barcelona)][22]
 * [Estrella Ramos (IM-UNAM)][23]
-* [Eva Ramón Gallegos (ENCB-IPN)][24]
-* [Nataly Manjarrez Orduño (The Feinstein Institute for Medical Research)][25]
 * [Hernán Larralde (ICF-UNAM)][26]
 * [Gustavo Martínez-Mekler (ICF-UNAM)][27]
 * [Alberto Darszon (IBT-UNAM)][28]
@@ -88,21 +86,19 @@ layout: page
 [8]: http://www.iimas.unam.mx/biblioteca/index.php/colaboradors/detalle/1/s
 [9]: http://www.fisio.cinvestav.mx/academicos/rudomin/
 [10]: http://www.ecologia.unam.mx/ie/academicos/alvarez/alvarez_contacto.htm
-[11]: http://www.biomedicas.unam.mx/_administracion/_departamentos/medicina_genomica_toxicologia_ambiental/carmen_mejia.html
+[11]: https://fcn.uaq.mx/index.php/invstigacion/investigadores-de-licenciaturas/investigadores-biologia/901-maria-del-carmen-mejia-vazquez
 [12]: http://www.ifug.ugto.mx/~ramoncp/
 [13]: http://www.quimica.unam.mx/ficha_investigador.php?ID=157&tipo=2
 [14]: http://www.linkedin.com/pub/laura-uribe/9/608/430
 [15]: http://faculty.utah.edu/u0818159-RODRIGO_GALINDO/research/index.hml
 [16]: http://www.ifisica.uaslp.mx/~ugalde/
 [17]: http://www.unpa.edu.mx/profesores/loma_bonita/beatriz_carely_luna_olivera.html
-[18]: http://aspuru.chem.harvard.edu/
+[18]: https://www.matter.toronto.edu/
 [19]: http://www.uaeh.edu.mx/campus/icbi/investigacion/matematicas/curriculums/erika.html
 [20]: http://sistemas.fciencias.unam.mx/~dsanders/
 [21]: http://www.ifc.unam.mx/investigadores/francisco-f-de-miguel
 [22]: http://www.ffn.ub.es/webmrubi/
 [23]: http://genomicacomputacional.inmegen.gob.mx/ehernandez/www.iim.unam.mx
-[24]: http://biomedbiotec.encb.ipn.mx/doctorado/Eva_Ramon.php
-[25]: http://www.feinsteininstitute.org/
 [26]: http://www.fis.unam.mx/perfil_ver.php?miembro=29
 [27]: http://www.fis.unam.mx/perfil_ver.php?miembro=32
 [28]: http://www.ibt.unam.mx/server/PRG.base?tipo:doc,dir:PRG.curriculum,par:darszon
