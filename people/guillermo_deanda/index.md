@@ -6,7 +6,7 @@ layout: page
 
 
 **[GitHub][2]**
-<mailto:gdeanda@inmegen.edu.mx>
+gdeanda at inmegen.edu.mx
 
 #### Academic Background
 
