@@ -6,7 +6,7 @@ layout: page
 
 
 **[GitHub][2]**
-<mailto:guillermodeandajauregui@gmail.com>
+<mailto:gdeanda@inmegen.edu.mx>
 
 #### Academic Background
 
