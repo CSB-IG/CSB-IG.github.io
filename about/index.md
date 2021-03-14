@@ -10,7 +10,7 @@ Enrique Hernandez-Lemus, Ph.D. is a Principal Investigator at the Mexican Nation
 
 Professor Hernandez-Lemus holds a Ph.D. in Chemical Physics (Non-equilibrium  Statistical Physics - Dynamic Phase Transitions). He started his research career working in Probability Theory and Mathematical Physics, to later turn his attention to problems in Biological Complexity and Systems Biology; has authored around 130 scientific publications and supervised the work of 25 students at the graduate and undergraduate level.
 
-Dr. Hernandez-Lemus has been a visiting scientist at the Broad Institute of Harvard and MIT, the Computational Biology Center at the TJ Watson IBM Research Laboratories; the Institute for Advanced Studies in Princeton, the Department of Physics and Mathematics at Rutgers University, and at the Principe Felipe Research Center in Spain, among others.
+Dr. Hernandez-Lemus has been a visiting scientist at the Broad Institute of Harvard and MIT, the Computational Biology Center at the TJ Watson IBM Research Laboratories; the Institute for Advanced Studies in Princeton, the Department of Physics and Mathematics at Rutgers University, the Institute of Complex Systems at the University of Barcelona and the Principe Felipe Research Center in Spain, among others.
 
 Recently, he has been awarded the 2016 Marcos Moshinsky fellowship in Physical Sciences. He is a member of the Mexican National Researchers’ System (Level III, the highest) and of the Mexican Health Ministry Research Network (level F, the highest).
 
