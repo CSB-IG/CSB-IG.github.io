@@ -8,6 +8,7 @@ layout: page
 * __Guillermo de Anda-Jaúregui, Ph.D., Associate Researcher__
 * __Santiago Sandoval-Motta, Ph.D., Associate Researcher__
 * __Hugo Tovar, Ph.D., Associate Researcher__
+
 ---
 ### Graduate Students
 
