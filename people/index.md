@@ -24,6 +24,9 @@ layout: page
 * __Ernesto Paas Oliveros__, M.Sc. student (Biochemical Sciences)
 
 ---
+
+### Undergraduate Students
+
 * __Aidee Lashmi García Kroepfly__, B.Sc. student (Neuroscience)
 * __Jorge Vázquez Arriaga__, B.Sc. student (Mathematics)
 * __Miguel Ángel Díaz Campos__, B.Sc. student (Biotechnology)
