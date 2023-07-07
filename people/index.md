@@ -2,122 +2,52 @@
 title: Computational Systems Biology / Integrative Genomics group
 layout: page
 ---
+### Researchers
 
-* __[Enrique Hernández-Lemus][G], Ph.D., Lead Researcher, Principal Investigator__
-* __[Jesús Espinal-Enriquez][J], Ph.D., Principal Investigator__
-* __[Guillermo de Anda-Jaúregui][D], Ph.D., Associate Researcher__
-* __[Santiago Sandoval-Motta][L], Ph.D., Associate Researcher__
-* __[Hugo Tovar][B], Ph.D., Associate Researcher__
-* __[Laura Gómez-Romero][K], Ph.D., Associate Researcher__
-
+* __Enrique Hernández-Lemus, Ph.D., Lead Researcher, Principal Investigator__
+* __Guillermo de Anda-Jaúregui, Ph.D., Associate Researcher__
+* __Santiago Sandoval-Motta, Ph.D., Associate Researcher__
+* __Hugo Tovar, Ph.D., Associate Researcher__
 ---
+### Graduate Students
 
 * __Tadeo E. Velázquez-Caldelas__, Ph.D. student (Biochemical Sciences) 
-* __Karol Baca-López__, Ph.D. student (Health Sciences) 
-* __Diana E. Tapia-Carrillo__, Ph.D. student (Biological Sciences)
 * __Soledad Ochoa__, Ph.D. student (Biomedical Sciences)
 * __Helena Reyes Gopar__, Ph.D. student (Biomedical Sciences)
-* __Diana E. García Cortés__, Ph.D. student (Biomedical Sciences)
-* __Jose María Zamora Fuentes__, Ph.D. student (Biomedical Sciences)
+* __Alejandra Paulina Pérez González__, Ph.D. student (Biomedical Sciences)
+* __Fryda Fernanda Solis Roldan__, Graduate student (Medicine MD/PhD)
 
 ---
 
-* __Martin Ruhle__, M.Sc. student (Biochemical Sciences)
-* __Alejandro Juárez Toribio__, M.Sc. student (Physics)
-* __Karina Reyes López__, M.Sc. student (Biochemical Sciences)
-* __Erandi Serrano__, M.Sc. student (Biochemical Sciences)
 * __María Fernanda Cortés Sierra__, M.Sc. student (Biochemical Sciences)
+* __Miguel Atl Silva Magaña__, M.Sc. student (Biochemical Sciences)
+* __Ernesto Paas Oliveros__, M.Sc. student (Biochemical Sciences)
 
 ---
-
-* __Luis Felipe del Castillo Vazquez__, B.Sc. student (Mathematics)
-* __Alejandra Yuriko Yamamoto Elizalde__, B.Sc. student (Physics)
-* __Mireya Gachúz-Martínez__, Undergraduate student (Biology)
+* __Aidee Lashmi García Kroepfly__, B.Sc. student (Neuroscience)
+* __Jorge Vázquez Arriaga__, B.Sc. student (Mathematics)
+* __Miguel Ángel Díaz Campos__, B.Sc. student (Biotechnology)
+* __Jennifer Alejandra Alba González__, Undergraduate student (Neuroscience)
+* __José Rodrigo Trujillo Ortíz__, Undergraduate student (Biology)
+* __Javier Rodríguez Mancera__, Undergraduate student (Physics)
+* __Emilio Sosa Díaz__, Undergraduate student (Medicine - MD/PhD)
+* __Emiliano Gómez Montañez__, Undergraduate student (Medicine)
+* __Jorge Gustavo Rojas Salazar__, Undergraduate student (Medicine)
+* __Yareli Lizbeth Rojas Salazar__, Undergraduate student (Medicine)
 
 ---
+### Alumni
 
-### Collaborators
-
-#### In-House Collaborators:
-
-* [Alfredo Hidalgo-Miranda (INMEGEN)][3]
-* [Claudia Rangel-Escareño (INMEGEN)][2]
-* [Nora Gutiérrez-Nájera (INMEGEN)][5]
-* [Juan Pablo Reyes-Grajeda (INMEGEN)][6]
-* [Julio Isael Pérez-Carreón (INMEGEN)][7]
-
-#### External Collaborators:
-
-* [Rodrigo Garcia Herrera (LANCIS-UNAM)][31]
-* [Jesús M. Siqueiros-García (IIMAS-UNAM)][8]
-* [Pablo Rudomín (CINVESTAV)][9]
-* [Elena Álvarez-Buylla (IE-UNAM)][10]
-* [Carmen Mejía (UAQ)][11]
-* [Ramón Castañeda-Priego (U Guanajuato)][12]
-* [Lena Ruiz-Azuara (FQ-UNAM)][13]
-* [Laura Uribe (Affymetrix)][14]
-* [Rodrigo Galindo-Murillo (U Utah)][15]
-* [Edgardo Ugalde (IF-UASLP)][16]
-* [Beatríz Luna-Olivera (UNPA)][17]
-* [Alán Aspuru-Guzik (U Toronto)][18]
-* [Erika E. Rodríguez (UAEH)][19]
-* [David P. Sanders (FC-UNAM)][20]
-* [Francisco F. De Miguel (IFC-UNAM)][21]
-* [Miguel Rubí (U Barcelona)][22]
-* [Estrella Ramos (IM-UNAM)][23]
-* [Hernán Larralde (ICF-UNAM)][26]
-* [Gustavo Martínez-Mekler (ICF-UNAM)][27]
-* [Alberto Darszon (IBT-UNAM)][28]
-* [Adán Guerrero (LNMA-UNAM)][29]
-* [Jorge Carneiro (Instituto Gulbenkian de Ciencia, Portugal)][30]
-* __[Sergio A. Alcalá-Corona, Ph.D.][I]__, (IFC_UNAM)
-* __[Raúl Alejandro Mejía Pedroza,M.D., Ph.D.][C]__, (University of Wien)
-* __[Miguel Angel García-Campos, M.Sc.][A]__, (Weizmann Institute of Science)
-* __[Diana Drago-García, M.Sc.][E]__, (Weizmann Institute of Science)
+* __Karol Baca López__, Ph.D. (Health Sciences)
+* __Diana Tapia Carrillo__, Ph.D. (Biological Sciences)
+* __Martin Ruhle__, M.Sc. (Biochemical Sciences)
+* __Alejandro Juárez Toribio__, M.Sc. (Physics)
+* __Karina Reyes López__, M.Sc. (Biochemical Sciences)
+* __Erandi Serrano__, M.Sc. (Biochemical Sciences)
+* __Sergio A. Alcalá-Corona, Ph.D.__, (FC_UNAM)
+* __Raúl Alejandro Mejía Pedroza,M.D., Ph.D.__, (University of Wien)
+* __Miguel Angel García-Campos, M.Sc.__, (Weizmann Institute of Science)
+* __Diana Drago-García, M.Sc.__, (Weizmann Institute of Science)
 
 
-
-[1]: http://www.ncbi.nlm.nih.gov/pubmed/24926019
-[2]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=19
-[3]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=17
-[5]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=16
-[6]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=25
-[7]: http://www.inmegen.gob.mx/es/investigacion/investigadores/curriculum-vitae/?perfil=223
- 
-[8]: http://www.iimas.unam.mx/biblioteca/index.php/colaboradors/detalle/1/s
-[9]: http://www.fisio.cinvestav.mx/academicos/rudomin/
-[10]: http://www.ecologia.unam.mx/ie/academicos/alvarez/alvarez_contacto.htm
-[11]: https://fcn.uaq.mx/index.php/invstigacion/investigadores-de-licenciaturas/investigadores-biologia/901-maria-del-carmen-mejia-vazquez
-[12]: http://www.ifug.ugto.mx/~ramoncp/
-[13]: http://www.quimica.unam.mx/ficha_investigador.php?ID=157&tipo=2
-[14]: http://www.linkedin.com/pub/laura-uribe/9/608/430
-[15]: http://faculty.utah.edu/u0818159-RODRIGO_GALINDO/research/index.hml
-[16]: http://www.ifisica.uaslp.mx/~ugalde/
-[17]: http://www.unpa.edu.mx/profesores/loma_bonita/beatriz_carely_luna_olivera.html
-[18]: https://www.matter.toronto.edu/
-[19]: http://www.uaeh.edu.mx/campus/icbi/investigacion/matematicas/curriculums/erika.html
-[20]: http://sistemas.fciencias.unam.mx/~dsanders/
-[21]: http://www.ifc.unam.mx/investigadores/francisco-f-de-miguel
-[22]: http://www.ffn.ub.es/webmrubi/
-[23]: http://genomicacomputacional.inmegen.gob.mx/ehernandez/www.iim.unam.mx
-[26]: http://www.fis.unam.mx/perfil_ver.php?miembro=29
-[27]: http://www.fis.unam.mx/perfil_ver.php?miembro=32
-[28]: http://www.ibt.unam.mx/server/PRG.base?tipo:doc,dir:PRG.curriculum,par:darszon
-[29]: http://www.ibt.unam.mx/server/PRG.base?tipo:doc,dir:PRG.curriculum,par:adanog
-[30]: http://qobweb.igc.gulbenkian.pt/pages/jorge/
-[31]: https://www.researchgate.net/profile/Rodrigo_Garcia-Herrera
-
-
-[A]: http://csb-ig.github.io/people/angel_campos/
-[B]: http://csb-ig.github.io/people/hugo_tovar/
-[C]: http://csb-ig.github.io/people/raul_mejia/
-[D]: http://csb-ig.github.io/people/guillermo_deanda/
-[E]: http://csb-ig.github.io/people/diana_drago/
-[F]: http://csb-ig.github.io/people/karol_baca/
-[G]: http://csbig.inmegen.gob.mx/about/
-[H]: http://csb-ig.github.io/people/rodrigo_garcia/
-[I]: http://csb-ig.github.io/people/sergio_alcala/
-[J]: https://github.com/orgs/CSB-IG/people/jesusespinal
-[K]: https://www.inmegen.gob.mx/investigacion/investigadores/curriculum-vitae/?perfil=6105
-[L]: https://scholar.google.com/citations?hl=es&user=1Ud8j-UAAAAJ
 
