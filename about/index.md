@@ -6,7 +6,7 @@ layout: page
 
 __[Google-Scholar][A] - [ResearchGate][B] - [GitHub][C] - - <mailto:ehernandez@inmegen.gob.mx>__
 
-Enrique Hernandez-Lemus, Ph.D. is a Principal Investigator at the Mexican National Institutes of Health and Head of the Computational Systems Biology and Integrative Genomics Lab at the National Institute of Genomic Medicine (Mexico). From April 2015 through September 2019 he was the Deputy Director of Research for Computational and Population Genomics at the National Institute of Genomic Medicine. From April 2012 to JUne 2022 he was Coordinator of the Computational Intelligence Program for the Center of Complexity Sciences, at the National University of Mexico UNAM.
+Enrique Hernandez-Lemus, Ph.D. is a Principal Investigator at the Mexican National Institutes of Health and Head of the Computational Systems Biology and Integrative Genomics Lab at the National Institute of Genomic Medicine (Mexico). From April 2015 through September 2019 he was the Deputy Director of Research for Computational and Population Genomics at the National Institute of Genomic Medicine. From April 2012 to June 2022 he was Coordinator of the Computational Intelligence Program for the Center of Complexity Sciences, at the National University of Mexico UNAM.
 
 Professor Hernandez-Lemus holds a Ph.D. in Chemical Physics (Non-equilibrium  Statistical Physics - Dynamic Phase Transitions). He started his research career working in Probability Theory and Mathematical Physics. Later he turned his attention to problems in Biological Complexity and Systems Biology; has authored more than 170 scientific publications and supervised the work of 30 students at the graduate and undergraduate level.
 
