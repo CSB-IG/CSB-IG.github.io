@@ -33,7 +33,6 @@ layout: page
 * __Miguel Ángel Díaz Campos__, B.Sc. student (Biotechnology)
 * __Jennifer Alejandra Alba González__, Undergraduate student (Neuroscience)
 * __José Rodrigo Trujillo Ortíz__, Undergraduate student (Biology)
-* __Javier Rodríguez Mancera__, Undergraduate student (Physics)
 * __Emilio Sosa Díaz__, Undergraduate student (Medicine - MD/PhD)
 *  __Roberto García Reyes__, Undergraduate student (Medicine - MD/PhD)
 * __Emiliano Gómez Montañez__, Undergraduate student (Medicine)
@@ -47,8 +46,8 @@ layout: page
 * __Karol Baca López__, Ph.D. (Health Sciences) currently at the Norwegian University of Science and Technology, Trondheim, Norway
 * __Diana Tapia Carrillo__, Ph.D. (Biological Sciences) currently at UNAM, México
 * __Martin Ruhle__, M.Sc. (Biochemical Sciences) currently at the Garrahan Pediatric Hospital, Buenos Aires, Argentina
-* __Alejandro Juárez Toribio__, M.Sc. (Physics) currently at Deloitte Data Center, Mexico City
-* __Karina Reyes López__, M.Sc. (Biochemical Sciences) currently at National Comission for Searching Missing Peresons - Forensics, México
+* __Alejandro Juárez Toribio__, M.Sc. (Physics) currently at Delloitte Data Center, Mexico City
+* __Karina Reyes López__, M.Sc. (Biochemical Sciences) currently at National Comission for Searching Missing Persons - Forensics, México
 * __Erandi Serrano__, M.Sc. (Biochemical Sciences)
 * __Sergio A. Alcalá-Corona, Ph.D.__, (Biomedical Sciences) currently at School of Sciences, UNAM, México
 * __Raúl Alejandro Mejía Pedroza,M.D., Ph.D.__, (Biomedical Sciences) currently at the University of Wien, Austria
