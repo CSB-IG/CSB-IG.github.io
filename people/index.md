@@ -52,7 +52,7 @@ layout: page
 * __Sergio A. Alcalá-Corona, Ph.D.__, (Biomedical Sciences) currently at School of Sciences, UNAM, México
 * __Raúl Alejandro Mejía Pedroza,M.D., Ph.D.__, (Biomedical Sciences) currently at the University of Wien, Austria
 * __Miguel Angel García-Campos, M.Sc.__, (Biological Sciences) currently at the Weizmann Institute of Science, Israel
-* __Diana Drago-García, M.Sc.__, (Biochemical Sciences) currently at the James Crick Research Institute, London
+* __Diana Drago-García, M.Sc.__, (Biochemical Sciences) currently at the Francis Crick Research Institute, London
 
 
 
