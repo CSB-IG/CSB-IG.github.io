@@ -15,7 +15,7 @@ layout: page
 * __Tadeo E. Velázquez-Caldelas__, Ph.D. student (Biochemical Sciences) 
 * __Helena Reyes Gopar__, Ph.D. student (Biomedical Sciences)
 * __Alejandra Paulina Pérez González__, Ph.D. student (Biomedical Sciences)
-* __Paola Elena García Vázquez__, Ph.D. student (Medical, Odontological and Health Sciences)
+* __Paola Elena García Vázquez__, Ph.D. student (Medical Odontological and Health Sciences)
 * __Fryda Fernanda Solis Roldan__, Graduate student (Medical Sciences MD/PhD)
 * __Martín Ruhle Boggi__, Ph.D. student (Biomedical Sciences)
 * __José Joel Ruíz Hernández__, Ph.D. student (Biochemical Sciences)
