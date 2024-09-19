@@ -11,8 +11,7 @@ layout: page
 
 ---
 ### Graduate Students
-
-* __Tadeo E. Velázquez-Caldelas__, Ph.D. student (Biochemical Sciences) 
+ 
 * __Helena Reyes Gopar__, Ph.D. student (Biomedical Sciences)
 * __Alejandra Paulina Pérez González__, Ph.D. student (Biomedical Sciences)
 * __Paola Elena García Vázquez__, Ph.D. student (Medical Odontological and Health Sciences)
@@ -27,6 +26,8 @@ layout: page
 * __Ernesto Paas Oliveros__, M.Sc. student (Biochemical Sciences)
 * __Miguel Ángel Díaz Campos__, M.Sc. student (Biochemical Sciences)
 * __Marco Antonio Pita Galeana__, M.Sc. student (Biochemical Sciences)
+* __Jorge Luis Gómez Hernández__, M.Sc. student (Biochemical Sciences)
+* __Arturo Torres Hernández__, M.Sc. student (Biological Sciences)
 
 ---
 
@@ -36,11 +37,13 @@ layout: page
 * __Jennifer Alejandra Alba González__, Undergraduate student (Neuroscience)
 * __José Rodrigo Trujillo Ortíz__, Undergraduate student (Biology)
 * __Emilio Sosa Díaz__, Undergraduate student (Medicine - MD/PhD)
-*  __Roberto García Reyes__, Undergraduate student (Medicine - MD/PhD)
 *  __Jorge Luis Calderón García__, Undergraduate student (Medicine - MD/PhD)
 * __Emiliano Gómez Montañez__, Undergraduate student (Medicine)
 * __Jorge Gustavo Rojas Salazar__, Undergraduate student (Medicine)
 * __Yareli Lizbeth Rojas Salazar__, Undergraduate student (Medicine)
+* __Emiliano Jiménez Zamora__, Undergraduate student (Physics)
+* __Michelle Carolina Gonzalez Cepeda__, Undergraduate student (Biomedical Physics)
+* __Jesús Mauricio Flores Cruz__, Undergraduate student (Mathematical Modeling)
 
 ---
 ### Alumni
