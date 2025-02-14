@@ -18,6 +18,7 @@ layout: page
 * __Fryda Fernanda Solis Roldan__, Graduate student (Medical Sciences MD/PhD)
 * __Martín Ruhle Boggi__, Ph.D. student (Biomedical Sciences)
 * __José Joel Ruíz Hernández__, Ph.D. student (Biochemical Sciences)
+* __Jorge Luis Gómez Hernández__, Ph.D. student (Biomedical Sciences)
 
 ---
 
@@ -26,22 +27,16 @@ layout: page
 * __Ernesto Paas Oliveros__, M.Sc. student (Biochemical Sciences)
 * __Miguel Ángel Díaz Campos__, M.Sc. student (Biochemical Sciences)
 * __Marco Antonio Pita Galeana__, M.Sc. student (Biochemical Sciences)
-* __Jorge Luis Gómez Hernández__, M.Sc. student (Biochemical Sciences)
 * __Arturo Torres Hernández__, M.Sc. student (Biological Sciences)
 
 ---
 
 ### Undergraduate Students
 * __Alejandro Bárcenas Femat__, Undergraduate student (Biology)
+* __María de Lourdes Gallardo Ortíz__, Undergraduate student (Biotechnology)
+* __Danae Alejandra Cortes García__, Undergraduate student (Neuroscience)
 * __Allan Miyazono Ushijima__, Intern Researcher (Computer Sciences)
-* __Jennifer Alejandra Alba González__, Undergraduate student (Neuroscience)
-* __José Rodrigo Trujillo Ortíz__, Undergraduate student (Biology)
 * __Emilio Sosa Díaz__, Undergraduate student (Medicine - MD/PhD)
-*  __Jorge Luis Calderón García__, Undergraduate student (Medicine - MD/PhD)
-* __Emiliano Gómez Montañez__, Undergraduate student (Medicine)
-* __Jorge Gustavo Rojas Salazar__, Undergraduate student (Medicine)
-* __Yareli Lizbeth Rojas Salazar__, Undergraduate student (Medicine)
-* __Emiliano Jiménez Zamora__, Undergraduate student (Physics)
 * __Michelle Carolina Gonzalez Cepeda__, Undergraduate student (Biomedical Physics)
 * __Jesús Mauricio Flores Cruz__, Undergraduate student (Mathematical Modeling)
 
@@ -59,6 +54,13 @@ layout: page
 * __Raúl Alejandro Mejía Pedroza,M.D., Ph.D.__, (Biomedical Sciences) currently at the University of Wien, Austria
 * __Miguel Angel García-Campos, M.Sc.__, (Biological Sciences) currently at the Weizmann Institute of Science, Israel
 * __Diana Drago-García, M.Sc.__, (Biochemical Sciences) currently at the Francis Crick Research Institute, London
+* __Jennifer Alejandra Alba González__, Undergraduate student (Neuroscience)
+* __José Rodrigo Trujillo Ortíz__, Undergraduate student (Biology)
+*  __Jorge Luis Calderón García__, Undergraduate student (Medicine - MD/PhD)
+* __Emiliano Gómez Montañez__, Undergraduate student (Medicine)
+* __Jorge Gustavo Rojas Salazar__, Undergraduate student (Medicine)
+* __Yareli Lizbeth Rojas Salazar__, Undergraduate student (Medicine)
+* __Emiliano Jiménez Zamora__, Undergraduate student (Physics)
 
 
 
