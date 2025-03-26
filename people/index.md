@@ -12,33 +12,33 @@ layout: page
 ---
 ### Graduate Students
  
-* __Helena Reyes Gopar__, Ph.D. student (Biomedical Sciences)
-* __Alejandra Paulina Pérez González__, Ph.D. student (Biomedical Sciences)
-* __Paola Elena García Vázquez__, Ph.D. student (Medical Odontological and Health Sciences)
-* __Fryda Fernanda Solis Roldan__, Graduate student (Medical Sciences MD/PhD)
+* __Helena Reyes-Gopar__, Ph.D. candidate (Biomedical Sciences)
+* __Alejandra Paulina Pérez-González__, Ph.D. candidate (Biomedical Sciences)
+* __Paola Elena García-Vázquez__, Ph.D. student (Medical Odontological and Health Sciences)
+* __Fryda Fernanda Solis-Roldan__, Graduate student (Medical Sciences MD/PhD)
 * __Martín Ruhle Boggi__, Ph.D. student (Biomedical Sciences)
-* __José Joel Ruíz Hernández__, Ph.D. student (Biochemical Sciences)
-* __Jorge Luis Gómez Hernández__, Ph.D. student (Biomedical Sciences)
+* __José Joel Ruíz-Hernández__, Ph.D. student (Biochemical Sciences)
+* __Miguel Atl Silva-Magaña__, Ph.D. student (Biochemical Sciences)
+* __Jorge Luis Gómez-Hernández__, Ph.D. student (Biomedical Sciences)
 
 ---
 
-* __María Fernanda Cortés Sierra__, M.Sc. student (Biochemical Sciences)
-* __Miguel Atl Silva Magaña__, M.Sc. student (Biochemical Sciences)
-* __Ernesto Paas Oliveros__, M.Sc. student (Biochemical Sciences)
-* __Miguel Ángel Díaz Campos__, M.Sc. student (Biochemical Sciences)
-* __Marco Antonio Pita Galeana__, M.Sc. student (Biochemical Sciences)
-* __Arturo Torres Hernández__, M.Sc. student (Biological Sciences)
+* __María Fernanda Cortés-Sierra__, M.Sc. student (Biochemical Sciences)
+* __Ernesto Paas-Oliveros__, M.Sc. student (Biochemical Sciences)
+* __Miguel Ángel Díaz-Campos__, M.Sc. student (Biochemical Sciences)
+* __Marco Antonio Pita-Galeana__, M.Sc. student (Biochemical Sciences)
+* __Arturo Torres-Hernández__, M.Sc. student (Biological Sciences)
 
 ---
 
 ### Undergraduate Students
-* __Alejandro Bárcenas Femat__, Undergraduate student (Biology)
-* __María de Lourdes Gallardo Ortíz__, Undergraduate student (Biotechnology)
-* __Danae Alejandra Cortes García__, Undergraduate student (Neuroscience)
-* __Allan Miyazono Ushijima__, Intern Researcher (Computer Sciences)
-* __Emilio Sosa Díaz__, Undergraduate student (Medicine - MD/PhD)
-* __Michelle Carolina Gonzalez Cepeda__, Undergraduate student (Biomedical Physics)
-* __Jesús Mauricio Flores Cruz__, Undergraduate student (Mathematical Modeling)
+* __Alejandro Bárcenas-Femat__, Undergraduate student (Biology)
+* __María de Lourdes Gallardo-Ortíz__, Undergraduate student (Biotechnology)
+* __Danae Alejandra Cortes-García__, Undergraduate student (Neuroscience)
+* __Allan Miyazono-Ushijima__, Intern Researcher (Computer Sciences)
+* __Emilio Sosa-Díaz__, Undergraduate student (Medicine - MD/PhD)
+* __Michelle Carolina Gonzalez-Cepeda__, Undergraduate student (Biomedical Physics)
+* __Jesús Mauricio Flores-Cruz__, Undergraduate student (Mathematical Modeling)
 
 ---
 ### Alumni
