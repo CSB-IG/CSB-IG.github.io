@@ -26,7 +26,7 @@ layout: page
 * __Ernesto Paas-Oliveros__, M.Sc. student (Biochemical Sciences)
 * __Miguel Ángel Díaz-Campos__, M.Sc. student (Biochemical Sciences)
 * __Marco Antonio Pita-Galeana__, M.Sc. student (Biochemical Sciences)
-* __Arturo Torres-Hernández__, M.Sc. student (Biological Sciences)
+* __Arturo Torres-Hernández__, M.Sc. student (Health Sciences)
 
 ---
 
