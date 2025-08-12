@@ -36,20 +36,21 @@ layout: page
 * __Danae Alejandra Cortes-García__, Undergraduate student (Neuroscience)
 * __Allan Miyazono-Ushijima__, Intern Researcher (Computer Sciences)
 * __Emilio Sosa-Díaz__, Undergraduate student (Medicine - MD/PhD)
-* __Michelle Carolina Gonzalez-Cepeda__, Undergraduate student (Biomedical Physics)
-* __Jesús Mauricio Flores-Cruz__, Undergraduate student (Mathematical Modeling)
+
 
 ---
 ### Alumni
 * __María Fernanda Cortés-Sierra__, M.Sc. student (Biochemical Sciences), currently Lab Manager at Clinical Facilities
+* __Jesús Mauricio Flores-Cruz__, Undergraduate student (Mathematical Modeling)
+* __Michelle Carolina Gonzalez-Cepeda__, Undergraduate student (Biomedical Physics)
 * __Aidee Lashmi García Kroepfly__, B.Sc. student (Neuroscience) currently Ph.D. student at Max Planck Institute for Biological Intelligence, Munich, Germany
 * __Jorge Vázquez Arriaga__, B.Sc. student (Mathematics)
-* __Soledad Ochoa__, Ph.D. (Biomedical Sciences) currently at the Cedars Sinai Research Institute, Los Ángeles California, United States
-* __Karol Baca López__, Ph.D. (Health Sciences) currently at the Norwegian University of Science and Technology, Trondheim, Norway
+* __Soledad Ochoa__, Ph.D. (Biomedical Sciences) currently at the University of Texas, Health Center,San Antonio Texas, United States
+* __Karol Baca López__, Ph.D. (Health Sciences) currently at Trondheim DIGITAL, Government data agency, Trondheim, Norway
 * __Diana Tapia Carrillo__, Ph.D. (Biological Sciences) currently at UNAM, México
 * __Alejandro Juárez Toribio__, M.Sc. (Physics) currently at Delloitte Data Center, Mexico City
 * __Karina Reyes López__, M.Sc. (Biochemical Sciences) currently at National Comission for Searching Missing Persons - Forensics, México
-* __Erandi Serrano__, M.Sc. (Biochemical Sciences)
+* __Erandi Serrano__, M.Sc. (Biochemical Sciences) currently Private Entrepeneur
 * __Sergio A. Alcalá-Corona, Ph.D.__, (Biomedical Sciences) currently at School of Sciences, UNAM, México
 * __Raúl Alejandro Mejía Pedroza,M.D., Ph.D.__, (Biomedical Sciences) currently at the University of Wien, Austria
 * __Miguel Angel García-Campos, M.Sc.__, (Biological Sciences) currently at the Weizmann Institute of Science, Israel
