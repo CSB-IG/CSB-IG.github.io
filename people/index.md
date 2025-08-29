@@ -2,9 +2,9 @@
 title: Computational Systems Biology / Integrative Genomics group
 layout: page
 ---
-### Researchers
+### Research Scientists
 
-* __Enrique Hernández-Lemus, Ph.D., Lead Researcher, Principal Investigator__
+* __Enrique Hernández-Lemus, Ph.D., Principal Investigator__
 * __Guillermo de Anda-Jaúregui, Ph.D., Associate Researcher__
 * __Santiago Sandoval-Motta, Ph.D., Associate Researcher__
 * __Hugo Tovar, Ph.D., Associate Researcher__
