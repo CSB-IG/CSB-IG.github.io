@@ -21,6 +21,8 @@ layout: page
 * __José Joel Ruíz-Hernández__, Ph.D. student (Biochemical Sciences)
 * __Miguel Atl Silva-Magaña__, Ph.D. student (Biochemical Sciences) -incoming
 * __Jorge Luis Gómez-Hernández__, Ph.D. student (Biomedical Sciences) -incoming
+* __Allan Miyazono-Ushijima__, Ph.D. student (Biomedical Sciences) -incoming
+* __Emilio Sosa-Díaz__, Ph.D. student (Medical Sciences MD/PhD track) -incoming
 
 ---
 
@@ -28,29 +30,28 @@ layout: page
 * __Miguel Ángel Díaz-Campos__, M.Sc. student (Biochemical Sciences)
 * __Marco Antonio Pita-Galeana__, M.Sc. student (Biochemical Sciences)
 * __Arturo Torres-Hernández__, M.Sc. student (Health Sciences)
+* __Keila Adonai Pérez-Fuentes__, M.Sc. student (Biochemical Sciences)
 
 ---
 
 ### Undergraduate Students
 * __Alejandro Bárcenas-Femat__, Undergraduate student (Biology)
 * __Danae Alejandra Cortes-García__, Undergraduate student (Neuroscience)
-* __Allan Miyazono-Ushijima__, Intern Researcher (Computer Sciences)
-* __Emilio Sosa-Díaz__, Undergraduate student (Medicine - MD/PhD)
 
 
 ---
 ### Alumni
-* __María Fernanda Cortés-Sierra__, M.Sc. student (Biochemical Sciences), currently Lab Manager at Clinical Facilities
+* __María Fernanda Cortés-Sierra__, M.Sc. student (Biochemical Sciences), currently Lab Manager at Mixcoac Clinical Facilities
 * __Jesús Mauricio Flores-Cruz__, Undergraduate student (Mathematical Modeling)
 * __María de Lourdes Gallardo-Ortíz__, Undergraduate student (Biotechnology)
 * __Michelle Carolina Gonzalez-Cepeda__, Undergraduate student (Biomedical Physics)
 * __Aidee Lashmi García Kroepfly__, B.Sc. student (Neuroscience) currently Ph.D. student at Max Planck Institute for Biological Intelligence, Munich, Germany
 * __Jorge Vázquez Arriaga__, B.Sc. student (Mathematics)
 * __Soledad Ochoa__, Ph.D. (Biomedical Sciences) currently Senior Research Scientist at the University of Texas Health Center, San Antonio Texas, United States
-* __Karol Baca López__, Ph.D. (Health Sciences) currently at Trondheim DIGITAL, Government data agency, Trondheim, Norway
+* __Karol Baca López__, Ph.D. (Health Sciences) currently Data Scientist at Trondheim DIGITAL, Government data agency, Trondheim, Norway
 * __Diana Tapia Carrillo__, Ph.D. (Biological Sciences) currently Adjunct Professor at UNAM, México
-* __Alejandro Juárez Toribio__, M.Sc. (Physics) currently at Delloitte Data Center, Mexico City
-* __Karina Reyes López__, M.Sc. (Biochemical Sciences) currently at National Comission for Searching Missing Persons - Forensics, México
+* __Alejandro Juárez Toribio__, M.Sc. (Physics) currently Business Intelligence Specialist at Delloitte Data Center, Mexico City
+* __Karina Reyes López__, M.Sc. (Biochemical Sciences) currently Deputy Director of Forensic Genetics at National Comission for Searching Missing Persons - Forensics, México
 * __Erandi Serrano__, M.Sc. (Biochemical Sciences) currently Private Entrepeneur
 * __Sergio A. Alcalá-Corona, Ph.D.__, (Biomedical Sciences) currently Adjunct Professor at School of Sciences, UNAM, México
 * __Raúl Alejandro Mejía Pedroza,M.D., Ph.D.__, (Biomedical Sciences) currently Research Scientist at the University of Wien, Austria
