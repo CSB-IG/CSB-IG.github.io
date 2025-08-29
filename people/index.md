@@ -37,8 +37,8 @@ layout: page
 ### Undergraduate Students
 * __Alejandro Bárcenas-Femat__, Undergraduate student (Biology)
 * __Danae Alejandra Cortes-García__, Undergraduate student (Neuroscience)
-* __Silvana Yalú Cristo-Martínez__, B.Sc. student (Genomic Sciences)
-* __Ximena Fernández-Sánchez__, B.Sc. student (Genomic Sciences) 
+* __Silvana Yalú Cristo-Martínez__, Undergraduate student (Genomic Sciences)
+* __Ximena Fernández-Sánchez__, Undergraduate student (Genomic Sciences) 
 * __Valentina Arias Díaz__, Research Intern (Genomic Sciences)
 * __Daniel Chagüén-Hernandez__, Research Intern (Neuroscience)
 
