@@ -48,35 +48,36 @@ layout: page
 
 (Postdocs)
 
-* __Jesús Espinal-Enriquez__, Ph.D. (Postdoctoral Scholar & Associate Researcher) currently Principal Investigator at the National Institute of Genomic Medicine, México
-* __Rodrigo Dorantes-Gilardi__, Ph.D. (Postdoctoral Scholar) currently Research Associate at the Barabasi Lab, Northeastern University, USA
-* __Candelario Hernández-Gómez__, Ph.D. (Postdoctoral Scholar) currently Adjunct Professor at the Tecnoloógico de Monterrey, México
-* __Alfredo González-Espinoza__, Ph.D. (Postdoctoral Scholar) currently Research Data Services Librarian at Carnegie Mellon University, USA
+* __Jesús Espinal-Enriquez, Ph.D.__ (Postdoctoral Scholar & Associate Researcher) currently Principal Investigator at the National Institute of Genomic Medicine, México
+* __Rodrigo Dorantes-Gilardi, Ph.D.__ (Postdoctoral Scholar) currently Research Associate at the Barabasi Lab, Northeastern University, USA
+* __Candelario Hernández-Gómez, Ph.D.__ (Postdoctoral Scholar) currently Adjunct Professor at the Tecnoloógico de Monterrey, México
+* __Alfredo González-Espinoza, Ph.D.__ (Postdoctoral Scholar) currently Research Data Services Librarian at Carnegie Mellon University, USA
 
 (PhD Students)
 
-* __Lorena Patricia Mora-Flores__, Ph.D. (Engineering Sciences) currently Postdoctoral Scholar at the National Institute of Genomic Medicine, México (This lab)
-* __Soledad Ochoa__, Ph.D. (Biomedical Sciences) currently Senior Research Scientist at the University of Texas Health Center, San Antonio Texas, USA
-* __Karol Baca López__, Ph.D. (Health Sciences) currently Data Scientist at Trondheim DIGITAL, Government data agency, Trondheim, Norway
-* __Diana Tapia Carrillo__, Ph.D. (Biological Sciences) currently Adjunct Professor at ENP UNAM, México
+* __Lorena Patricia Mora-Flores, Ph.D.__ (Engineering Sciences) currently Postdoctoral Scholar at the National Institute of Genomic Medicine, México (This lab)
+* __Soledad Ochoa, Ph.D.__ (Biomedical Sciences) currently Senior Research Scientist at the University of Texas Health Center, San Antonio Texas, USA
+* __Karol Baca López, Ph.D.__ (Health Sciences) currently Data Scientist at Trondheim DIGITAL, Government data agency, Trondheim, Norway
+* __Diana Tapia Carrillo, Ph.D.__ (Biological Sciences) currently Adjunct Professor at ENP UNAM, México
 * __Sergio A. Alcalá-Corona, Ph.D.__, (Biomedical Sciences) currently Adjunct Professor at the School of Sciences, UNAM, México
-* __Raúl Alejandro Mejía Pedroza,M.D., Ph.D.__, (Biomedical Sciences) currently Research Scientist at the University of Wien, Austria
+* __Raúl Alejandro Mejía Pedroza, M.D., Ph.D.__, (Biomedical Sciences) currently Research Scientist at the University of Wien, Austria
 * __Guillermo de Anda-Jaúregui,Ph.D.__, (Biomedical Sciences) currently Associate Researcher at at the National Institute of Genomic Medicine, México (this lab)
 * __Hugo Tovar, Ph.D.__, (Biological Sciences) currently Associate Researcher at at the National Institute of Genomic Medicine, México (this lab)
   
 
 (Masters Students)
 
-* __María Fernanda Cortés-Sierra__, M.Sc. student (Biochemical Sciences), currently Lab Manager at Mixcoac Clinical Facilities, México
-* __Karina Reyes López__, M.Sc. (Biochemical Sciences) currently Deputy Director of Forensic Genetics at National Comission for Searching Missing Persons - Forensics, México
-* __Erandi Serrano__, M.Sc. (Biochemical Sciences) currently Private Entrepeneur, México
+* __María Fernanda Cortés-Sierra, M.Sc.__  (Biochemical Sciences), currently Lab Manager at Mixcoac Clinical Facilities, México
+* __Karina Reyes López, M.Sc.__ (Biochemical Sciences) currently Deputy Director of Forensic Genetics at National Comission for Searching Missing Persons - Forensics, México
+* __Erandi Serrano, M.Sc.__ (Biochemical Sciences) currently Private Entrepreneur in the Food Industry, México
 * __Miguel Angel García-Campos, M.Sc.__, (Biological Sciences) currently Postdoctoral Researcher at the Weizmann Institute of Science, Israel
 * __Diana Drago-García, M.Sc.__, (Biochemical Sciences) currently Postdoctoral Researcher at the Francis Crick Research Institute, London
+* __Alejandro Juárez Toribio, M.Sc.__ (Physics) currently Business Intelligence Specialist at Delloitte Data Center, Mexico City, México
+
 
 (Undergrads & Interns)
 
-* __Aidee Lashmi García Kroepfly__, B.Sc. student (Neuroscience) currently Ph.D. student at Max Planck Institute for Biological Intelligence, Munich, Germany
-* __Alejandro Juárez Toribio__, M.Sc. (Physics) currently Business Intelligence Specialist at Delloitte Data Center, Mexico City, México
+* __Aidee Lashmi García Kroepfly__, Undergraduate student (Neuroscience) currently Ph.D. student at Max Planck Institute for Biological Intelligence, Munich, Germany
 * __Emiliano Gómez Montañez__, Undergraduate student (Medicine) currently Medical Residence at the National Institute of Genomic Medicine, México
 * __Yareli Lizbeth Rojas Salazar__, Undergraduate student (Medicine) currently Medical Residence at the National Institute of Genomic Medicine, México
 * __Mauricio Reyes__, Research Intern (Pharmaceutical Chenistry) - currently working towards his degree
@@ -84,7 +85,7 @@ layout: page
 * __Jesús Mauricio Flores-Cruz__, Undergraduate student (Mathematical Modeling) - currently working towards his degree
 * __María de Lourdes Gallardo-Ortíz__, Undergraduate student (Biotechnology) - currently working towards her degree
 * __Michelle Carolina Gonzalez-Cepeda__, Undergraduate student (Biomedical Physics) - currently working towards her degree
-* __Jorge Vázquez Arriaga__, B.Sc. student (Mathematics) - currently working towards his degree
+* __Jorge Vázquez Arriaga__, Undergraduate student (Mathematics) - currently working towards his degree
 * __Jennifer Alejandra Alba González__, Undergraduate student (Neuroscience) - currently working towards her degree
 * __José Rodrigo Trujillo Ortíz__, Undergraduate student (Biology) - currently working towards his degree
 *  __Jorge Luis Calderón García__, Undergraduate student (Medicine - MD/PhD) - currently working towards his degree
