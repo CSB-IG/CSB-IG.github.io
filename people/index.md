@@ -73,7 +73,8 @@ layout: page
 * __Miguel Angel García-Campos, M.Sc.__, (Biological Sciences) currently Postdoctoral Researcher at the Weizmann Institute of Science, Israel
 * __Diana Drago-García, M.Sc.__, (Biochemical Sciences) currently Postdoctoral Researcher at the Francis Crick Research Institute, London
 * __Alejandro Juárez Toribio, M.Sc.__ (Physics) currently Business Intelligence Specialist at Delloitte Data Center, Mexico City, México
-
+* __Sergio Daniel Andonegui Elguera, M.Sc.__ (Biochemical Sciences) currently Ph.D. student at UNAM, México
+* __Tadeo Velázquez-Caldelas__ (Biochemical Sciences) currently working in the Private sector, México
 
 (Undergrads & Interns)
 
