@@ -42,6 +42,7 @@ layout: page
 * __Ximena Fernández-Sánchez__, Undergraduate student (Genomic Sciences) 
 * __Valentina Arias Díaz__, Research Intern (Genomic Sciences)
 * __Daniel Chagüén-Hernandez__, Research Intern (Neuroscience)
+* __Sofía Alva-Torres__, Research Intern (Nutritional & Food Sciences)
 
 
 ---
