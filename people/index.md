@@ -30,7 +30,7 @@ layout: page
 * __Marco Antonio Pita-Galeana__, M.Sc. student (Biochemical Sciences)
 * __Arturo Torres-Hernández__, M.Sc. student (Health Sciences)
 * __Keila Adonai Pérez-Fuentes__, M.Sc. student (Biochemical Sciences)
-* __Jorge Luis Gómez-Hernández__, M.Sc. student (Biochemical Sciences) -incoming
+* __Jorge Luis Gómez-Hernández__, M.Sc. student (Biochemical Sciences) 
 
 
 ---
