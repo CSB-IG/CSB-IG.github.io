@@ -20,7 +20,7 @@ layout: page
 * __Martín Ruhle Boggi__, Ph.D. student (Biomedical Sciences)
 * __José Joel Ruíz-Hernández__, Ph.D. student (Biochemical Sciences)
 * __Miguel Atl Silva-Magaña__, Ph.D. student (Biochemical Sciences) 
-* __Allan Miyazono-Ushijima__, Ph.D. student (Biomedical Sciences) -incoming
+* __Allan Miyazono-Ushijima__, Ph.D. student (Computer Science) -incoming
 * __Emilio Sosa-Díaz__, Ph.D. student (Medical Sciences MD/PhD track) -incoming
 
 ---
