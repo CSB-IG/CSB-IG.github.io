@@ -15,7 +15,7 @@ layout: page
  
 * __Helena Reyes-Gopar__, Ph.D. candidate (Biomedical Sciences)
 * __Alejandra Paulina Pérez-González__, Ph.D. candidate (Biomedical Sciences)
-* __Paola Elena García-Vázquez__, Ph.D. candidate (Medical Odontological and Health Sciences)
+* __Paola Elena García-Vázquez__, Ph.D. candidate (Medical, Odontological and Health Sciences)
 * __Fryda Fernanda Solis-Roldan__, Ph.D. student (Medical Sciences MD/PhD track)
 * __Martín Ruhle Boggi__, Ph.D. student (Biomedical Sciences)
 * __José Joel Ruíz-Hernández__, Ph.D. student (Biochemical Sciences)
