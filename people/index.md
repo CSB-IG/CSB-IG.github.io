@@ -36,13 +36,16 @@ layout: page
 ---
 
 ### Undergraduate Students
-* __Alejandro Bárcenas-Femat__, Undergraduate student (Biology)
+* __Alejandro Pinta-Castro__, Research Intern (Medicine)
+* __Mariana Hernández Aguilar__, Research Intern (Medicine)
+* __Pablo Jiménez Feria__, Research Intern (Medicine)
+* __Sofía Alva-Torres__, Research Intern (Nutritional & Food Sciences)
 * __Danae Alejandra Cortes-García__, Undergraduate student (Neuroscience)
 * __Silvana Yalú Cristo-Martínez__, Undergraduate student (Genomic Sciences)
 * __Ximena Fernández-Sánchez__, Undergraduate student (Neuroscience) 
 * __Valentina Arias Díaz__, Research Intern (Genomic Sciences)
 * __Daniel Chagüén-Hernandez__, Research Intern (Neuroscience)
-* __Sofía Alva-Torres__, Research Intern (Nutritional & Food Sciences)
+* __Alejandro Bárcenas-Femat__, Undergraduate student (Biology)
 
 
 ---
@@ -52,7 +55,7 @@ layout: page
 
 * __Jesús Espinal-Enriquez, Ph.D.__ (Postdoctoral Scholar & Associate Researcher) currently Principal Investigator at the National Institute of Genomic Medicine, México
 * __Rodrigo Dorantes-Gilardi, Ph.D.__ (Postdoctoral Scholar) currently Research Associate at the Barabasi Lab, Northeastern University, USA
-* __Candelario Hernández-Gómez, Ph.D.__ (Postdoctoral Scholar) currently Adjunct Professor at the Tecnoloógico de Monterrey, México
+* __Candelario Hernández-Gómez, Ph.D.__ (Postdoctoral Scholar) currently Adjunct Professor at the Tecnológico de Monterrey, México
 * __Alfredo González-Espinoza, Ph.D.__ (Postdoctoral Scholar) currently Research Data Services Librarian at Carnegie Mellon University, USA
 
 (PhD Students)
