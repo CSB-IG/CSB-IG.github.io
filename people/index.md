@@ -21,7 +21,7 @@ layout: page
 * __José Joel Ruíz-Hernández__, Ph.D. student (Biochemical Sciences)
 * __Miguel Atl Silva-Magaña__, Ph.D. student (Biochemical Sciences) 
 * __Allan Miyazono-Ushijima__, Ph.D. student (Computer Science) 
-* __Emilio Sosa-Díaz__, Ph.D. student (Medical Sciences MD/PhD track) -incoming
+* __Emilio Sosa-Díaz__, Ph.D. student (Medical Sciences MD/PhD track) 
 
 ---
 
