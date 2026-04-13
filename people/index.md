@@ -16,8 +16,8 @@ layout: page
 * __Helena Reyes-Gopar__, Ph.D. candidate (Biomedical Sciences)
 * __Alejandra Paulina Pérez-González__, Ph.D. candidate (Biomedical Sciences)
 * __Paola Elena García-Vázquez__, Ph.D. candidate (Medical, Odontological and Health Sciences)
+* __Martín Ruhle Boggi__, Ph.D. candidate (Biomedical Sciences)
 * __Fryda Fernanda Solis-Roldan__, Ph.D. student (Medical Sciences MD/PhD track)
-* __Martín Ruhle Boggi__, Ph.D. student (Biomedical Sciences)
 * __José Joel Ruíz-Hernández__, Ph.D. student (Biochemical Sciences)
 * __Miguel Atl Silva-Magaña__, Ph.D. student (Biochemical Sciences) 
 * __Allan Miyazono-Ushijima__, Ph.D. student (Computer Science) 
@@ -25,7 +25,6 @@ layout: page
 
 ---
 
-* __Ernesto Paas-Oliveros__, M.Sc. student (Biochemical Sciences)
 * __Miguel Ángel Díaz-Campos__, M.Sc. student (Biochemical Sciences)
 * __Marco Antonio Pita-Galeana__, M.Sc. student (Biochemical Sciences)
 * __Arturo Torres-Hernández__, M.Sc. student (Health Sciences)
@@ -72,7 +71,7 @@ layout: page
   
 
 (Masters Students)
-
+* __Ernesto Paas-Oliveros, M.Sc.__ (Biochemical Sciences), currently Graduate Research Assisstant joint project UC Berkeley USA / National Institute of Genomic Medicine, Mexico
 * __María Fernanda Cortés-Sierra, M.Sc.__  (Biochemical Sciences), currently Lab Manager at Mixcoac Clinical Facilities, México
 * __Karina Reyes López, M.Sc.__ (Biochemical Sciences) currently Deputy Director of Forensic Genetics at National Comission for Searching Missing Persons - Forensics, México
 * __Erandi Serrano, M.Sc.__ (Biochemical Sciences) currently Private Entrepreneur in the Food Industry, México
