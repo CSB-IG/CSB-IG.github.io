@@ -25,7 +25,6 @@ layout: page
 
 ---
 
-* __Miguel Ángel Díaz-Campos__, M.Sc. student (Biochemical Sciences)
 * __Marco Antonio Pita-Galeana__, M.Sc. student (Biochemical Sciences)
 * __Arturo Torres-Hernández__, M.Sc. student (Health Sciences)
 * __Keila Adonai Pérez-Fuentes__, M.Sc. student (Biochemical Sciences)
@@ -71,6 +70,7 @@ layout: page
   
 
 (Masters Students)
+* __Miguel Ángel Díaz-Campos__, M.Sc. (Biochemical Sciences) currently Research Assistant at the Institute for Biomedical Research at UNAM, México
 * __Ernesto Paas-Oliveros, M.Sc.__ (Biochemical Sciences), currently Graduate Research Assisstant joint project UC Berkeley USA / National Institute of Genomic Medicine, Mexico
 * __María Fernanda Cortés-Sierra, M.Sc.__  (Biochemical Sciences), currently Lab Manager at Mixcoac Clinical Facilities, México
 * __Karina Reyes López, M.Sc.__ (Biochemical Sciences) currently Deputy Director of Forensic Genetics at National Comission for Searching Missing Persons - Forensics, México
