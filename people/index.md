@@ -38,6 +38,7 @@ layout: page
 * __Alejandro Pinta-Castro__, Research Intern (Medicine)
 * __Mariana Hernández Aguilar__, Research Intern (Medicine)
 * __Pablo Jiménez Feria__, Research Intern (Medicine)
+* __Astrid Jacqueline Miranda-Miranda__, Research Intern (Medicine) (Medical Sciences MD/PhD track)
 * __Sofía Alva-Torres__, Undergraduate Research Intern (Nutritional & Food Sciences)
 * __Danae Alejandra Cortes-García__, Undergraduate Research Intern (Neuroscience)
 * __Silvana Yalú Cristo-Martínez__, Undergraduate Research Intern (Genomic Sciences)
