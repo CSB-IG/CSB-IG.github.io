@@ -38,13 +38,14 @@ layout: page
 * __Alejandro Pinta-Castro__, Research Intern (Medicine)
 * __Mariana Hernández Aguilar__, Research Intern (Medicine)
 * __Pablo Jiménez Feria__, Research Intern (Medicine)
-* __Sofía Alva-Torres__, Research Intern (Nutritional & Food Sciences)
-* __Danae Alejandra Cortes-García__, Undergraduate student (Neuroscience)
-* __Silvana Yalú Cristo-Martínez__, Undergraduate student (Genomic Sciences)
-* __Ximena Fernández-Sánchez__, Undergraduate student (Neuroscience) 
-* __Valentina Arias Díaz__, Research Intern (Genomic Sciences)
-* __Daniel Chagüén-Hernandez__, Research Intern (Neuroscience)
-* __Alejandro Bárcenas-Femat__, Undergraduate student (Biology)
+* __Sofía Alva-Torres__, Undergraduate Research Intern (Nutritional & Food Sciences)
+* __Danae Alejandra Cortes-García__, Undergraduate Research Intern (Neuroscience)
+* __Silvana Yalú Cristo-Martínez__, Undergraduate Research Intern (Genomic Sciences)
+* __Ximena Fernández-Sánchez__, Undergraduate Research Intern (Neuroscience) 
+* __Valentina Arias Díaz__, Undergraduate Research Intern (Genomic Sciences)
+* __Daniel Chagüén-Hernandez__, Undergraduate Research Intern (Neuroscience)
+* __Rafae Díaz-Martínez__, Undergraduate Research Intern (Genomic Sciences)
+* __Alejandro Bárcenas-Femat__, Undergraduate Undergraduate student (Biology)
 
 
 ---
