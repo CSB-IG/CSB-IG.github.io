@@ -45,7 +45,6 @@ layout: page
 * __Valentina Arias Díaz__, Undergraduate Research Intern (Genomic Sciences)
 * __Daniel Chagüén-Hernandez__, Undergraduate Research Intern (Neuroscience)
 * __Rafael Díaz-Martínez__, Undergraduate Research Intern (Genomic Sciences)
-* __Alejandro Bárcenas-Femat__, Undergraduate Undergraduate student (Biology)
 
 
 ---
