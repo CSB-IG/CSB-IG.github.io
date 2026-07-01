@@ -32,7 +32,7 @@ layout: page
 * __Carlos Alberto Sánchez-Sánchez__, M.Sc. student (Mathematics) 
 * __Jorge Luis Gómez-Hernández__, M.Sc. student (Biochemical Sciences)
 * __Paula Camila Barrios Cervantes__, M.Sc. student (Biological Sciences)
-* __José Manuel Morales__, M.Sc. student (Biological Sciences)
+* __José Manuel Pastelín-Morales__, M.Sc. student (Biotechnology)
 
 
 ---
