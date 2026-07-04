@@ -104,10 +104,18 @@ layout: page
 * __Jorge Gustavo Rojas Salazar__, Undergraduate student (Medicine) - currently working towards his degree
 * __Emiliano Jiménez Zamora__, Undergraduate student (Physics) - currently working towards his degree
 
+---
+### Some pics of the lab
 
 ![CSBIG lab as of late 2025](/images/IMG_0925.JPG)
 
-![CSBIG lab as of Summer 2018](/images/IMG_3157.JPG)
+
+* __CSBIG lab as of late 2025__
+
+![CSBIG lab as of the Summer of 2018](/images/IMG_3157.JPG)
+
+* __CSBIG lab as of the Summer of 2018__
+
 
 
 
