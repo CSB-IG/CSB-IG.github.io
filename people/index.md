@@ -105,4 +105,10 @@ layout: page
 * __Emiliano Jiménez Zamora__, Undergraduate student (Physics) - currently working towards his degree
 
 
+![CSBIG lab as of late 2025](/images/IMG_0925.JPG)
+
+![CSBIG lab as of Summer 2018](/images/IMG_3157.JPG)
+
+
+
 
