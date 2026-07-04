@@ -67,7 +67,7 @@ layout: page
 * __Soledad Ochoa, Ph.D.__ (Biomedical Sciences) currently Senior Research Scientist at the University of Texas Health Center, San Antonio Texas, USA
 * __Karol Baca López, Ph.D.__ (Health Sciences) currently Data Scientist at Trondheim DIGITAL, Government data agency, Trondheim, Norway
 * __Diana Elisa García-Cortés, Ph.D.__ (Biomedical Sciences) currently Senior Computational Biologist, Dana-Farber Cancer Institute, Boston, USA
-* __José María Zamora-Fuentes, Ph. D.__ (Biomedical Sciences) currently Lead Data Science Researcher, Secretaría de Energía, México
+* __José María Zamora-Fuentes, Ph.D.__ (Biomedical Sciences) currently Lead Data Science Researcher, Secretaría de Energía, México
 * __Diana Tapia Carrillo, Ph.D.__ (Biological Sciences) currently Adjunct Professor at ENP UNAM, México
 * __Sergio A. Alcalá-Corona, Ph.D.__, (Biomedical Sciences) currently Adjunct Professor at the School of Sciences, UNAM, México
 * __Raúl Alejandro Mejía Pedroza, M.D., Ph.D.__, (Biomedical Sciences) currently Research Scientist at the University of Wien, Austria
