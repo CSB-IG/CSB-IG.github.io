@@ -6,7 +6,6 @@ layout: page
 
 * __Enrique Hernández-Lemus, Ph.D., Principal Investigator__
 * __Guillermo de Anda-Jaúregui, Ph.D., Associate Researcher__
-* __Santiago Sandoval-Motta, Ph.D., Associate Researcher__
 * __Hugo Tovar, Ph.D., Associate Researcher__
 * __Lorena Patricia Mora-Flores, Ph.D., Postdoctoral Scholar__
 
@@ -80,6 +79,7 @@ layout: page
 * __Ernesto Paas-Oliveros, M.Sc.__ (Biochemical Sciences), currently Graduate Research Assisstant joint project UC Berkeley USA / National Institute of Genomic Medicine, Mexico
 * __María Fernanda Cortés-Sierra, M.Sc.__  (Biochemical Sciences), currently Lab Manager at Mixcoac Clinical Facilities, México
 * __Karina Reyes López, M.Sc.__ (Biochemical Sciences) currently Deputy Director of Forensic Genetics at National Comission for Searching Missing Persons - Forensics, México
+* __Martha Beatriz Chapa López, M.Sc.__ (Biological Sciences) currently PhD Student, Mexico
 * __Erandi Serrano, M.Sc.__ (Biochemical Sciences) currently Private Entrepreneur in the Food Industry, México
 * __Miguel Angel García-Campos, M.Sc.__, (Biological Sciences) currently Postdoctoral Researcher at the Weizmann Institute of Science, Israel
 * __Diana Drago-García, M.Sc.__, (Biochemical Sciences) currently Postdoctoral Researcher at the Francis Crick Research Institute, London
@@ -91,6 +91,8 @@ layout: page
 
 * __Aidee Lashmi García Kroepfly__, Undergraduate student (Neuroscience) currently Ph.D. student at Max Planck Institute for Biological Intelligence, Munich, Germany
 * __Emiliano Gómez Montañez__, Undergraduate student (Medicine) currently Medical Residence at the National Institute of Genomic Medicine, México
+* __Abel Isaias Gutierrez Cruz__, Undergraduate student (Pharmaceutical chemistry) currently Financial Data Scientist at Arkham, México
+* __María Montserrat Ramírez Ledesma__, Undergraduate student (Agrogenomics) currently Graduate student, México
 * __Yareli Lizbeth Rojas Salazar__, Undergraduate student (Medicine) currently Medical Residence at the National Institute of Genomic Medicine, México
 * __Mauricio Reyes__, Research Intern (Pharmaceutical Chenistry) - currently working towards his degree
 * __Roberto García-Reyes__, Research Intern (Medicine - MD/PhD) - currently working towards his degree
