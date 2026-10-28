@@ -12,7 +12,6 @@ layout: page
 ---
 ### Graduate Students
  
-* __Helena Reyes-Gopar__, Ph.D. candidate (Biomedical Sciences)
 * __Alejandra Paulina Pérez-González__, Ph.D. candidate (Biomedical Sciences)
 * __Paola Elena García-Vázquez__, Ph.D. candidate (Medical, Odontological and Health Sciences)
 * __Martín Ruhle Boggi__, Ph.D. candidate (Biomedical Sciences)
@@ -37,7 +36,6 @@ layout: page
 ---
 
 ### Undergraduate Students
-* __Alejandro Pinta-Castro__, Research Intern (Medicine)
 * __Mariana Hernández Aguilar__, Research Intern (Medicine)
 * __Pablo Jiménez Feria__, Research Intern (Medicine)
 * __Astrid Jacqueline Miranda-Miranda__, Research Intern (Medicine) (Medical Sciences MD/PhD track)
@@ -61,7 +59,7 @@ layout: page
 * __Alfredo González-Espinoza, Ph.D.__ (Postdoctoral Scholar) currently Research Data Services Librarian at Carnegie Mellon University, USA
 
 (PhD Students)
-
+* __Helena Reyes-Gopar, Ph.D.__ (Biomedical Sciences) currently Postdoctoral Scholar at the Feinstein Institute for Translational Medicine, Northwell Health, New York, USA
 * __Lorena Patricia Mora-Flores, Ph.D.__ (Engineering Sciences) currently Postdoctoral Scholar at the National Institute of Genomic Medicine, México (This lab)
 * __Soledad Ochoa, Ph.D.__ (Biomedical Sciences) currently Senior Research Scientist at the University of Texas Health Center, San Antonio Texas, USA
 * __Karol Baca López, Ph.D.__ (Health Sciences) currently Data Scientist at Trondheim DIGITAL, Government data agency, Trondheim, Norway
@@ -93,6 +91,7 @@ layout: page
 * __Emiliano Gómez Montañez__, Undergraduate student (Medicine) currently Medical Residence at the National Institute of Genomic Medicine, México
 * __Abel Isaias Gutierrez Cruz__, Undergraduate student (Pharmaceutical chemistry) currently Financial Data Scientist at Arkham, México
 * __María Montserrat Ramírez Ledesma__, Undergraduate student (Agrogenomics) currently Research & Development Chemist, ICON, México
+* __Alejandro Pinta-Castro__, Research Intern (Medicine) currently Medical Residence in San Diego, USA
 * __Yareli Lizbeth Rojas Salazar__, Undergraduate student (Medicine) currently Medical Residence at the National Institute of Genomic Medicine, México
 * __María José Cambero Acosta__, Undergraduate student (Chemistry) - currently 
 * __Mauricio Reyes__, Research Intern (Pharmaceutical Chenistry) - currently working towards his degree
