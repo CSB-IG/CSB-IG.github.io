@@ -15,7 +15,7 @@ layout: page
 * __Alejandra Paulina Pérez-González__, Ph.D. candidate (Biomedical Sciences)
 * __Paola Elena García-Vázquez__, Ph.D. candidate (Medical, Odontological and Health Sciences)
 * __Martín Ruhle Boggi__, Ph.D. candidate (Biomedical Sciences)
-* __Fryda Fernanda Solis-Roldan__, Ph.D. student (Medical Sciences MD/PhD track)
+* __Fryda Fernanda Solis-Roldan__, Ph.D. candidate (Medical Sciences MD/PhD track)
 * __José Joel Ruíz-Hernández__, Ph.D. student (Biochemical Sciences)
 * __Miguel Atl Silva-Magaña__, Ph.D. student (Biochemical Sciences) 
 * __Allan Miyazono-Ushijima__, Ph.D. student (Computer Science) 
